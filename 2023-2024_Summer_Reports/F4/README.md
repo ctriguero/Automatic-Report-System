@@ -1,4 +1,5 @@
-# Automatic Report System
+# **Automatic Report System**
+This program is a help for the teacher to analyse and writing reports for students. It requieres a data input file with information of the students. Exam results, class tests, homework, etc.
 ## We need to create an input data file with the following fields:
 HEADER line 1: Form X/AS/A2 winter reports 2023-2024\
 HEADER line 2: [group] [surname] [name]	[sex]	[List of exam topics names that will appear in report to revise]	[mark]	[grade]	[predicted] [List of class test topics names] [List of formal homework]\
