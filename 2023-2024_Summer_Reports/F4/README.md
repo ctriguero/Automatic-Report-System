@@ -5,4 +5,6 @@ HEADER line 2: [group] [surname] [name]	[sex]	[List of exam topics names that wi
 [Surname, name] [sex (F/M)] [Exam percentages by topic: motion, forces, hooke law, moments, density,...] [mark %] [grade] [predicted: yes or no] [Class test % per topic] [Formal homework % per topic]
 ## It is possible that we need to adapt the program according to the exam topics.
 ## Compilation
-g++ 
+g++ [code name.cpp]
+## Run
+./a.out [data file to analyze.dat] > report.txt
