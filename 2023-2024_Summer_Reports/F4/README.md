@@ -7,4 +7,4 @@ HEADER line 2: [group] [surname] [name]	[sex]	[List of exam topics names that wi
 ## Compilation
 g++ [code name.cpp]
 ## Run
-./a.out [data file to analyze.dat] > report.txt
+./a.out [data file to analyse.dat] > report.txt
