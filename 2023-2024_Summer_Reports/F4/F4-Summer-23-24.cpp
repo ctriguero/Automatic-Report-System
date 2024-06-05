@@ -301,10 +301,11 @@ int main( int argc, const char* argv[] )
     
 
 
+    //--------------------------------------------
+    // READING DATA
+    //--------------------------------------------
 
-
-
-    //input variables to build report first line
+    //definition of input variables to build report first line
     std::string group,name,surename,sex,homework,attendance;
     std::string T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,marks,grade,A,B,C,D,E,predicted,tes1,tes2,tes3,tes4,tes5,tes6,home1,home2,home3,home4,home5,home6;
     
@@ -323,7 +324,7 @@ int main( int argc, const char* argv[] )
     // reading first line to get the topics
     getline(InputFile, line);
     std::stringstream aa(line);
-    aa >> group >> surename >> name >> sex >> T1 >> T2 >> T3 >> T4 >> T5 >> T6 >> T7 >> marks >> grade >> predicted >> tes1 >> tes2 >> tes3 >> tes4 >> home1 >> home2 >> home3 >> home4 ;
+    aa >> group >> surename >> name >> sex >> T1 >> T2 >> T3 >> T4 >> T5 >> T6 >> T7 >> T8 >> T9 >> T10 >> marks >> grade >> predicted >> tes1 >> tes2 >> tes3 >> tes4 >> tes5 >> home1 >> home2 >> home3 >> home4 >> home5 >> home6  ;
 
     cout << "File headers" << endl ;
     cout << YELLOW << group << " " << surename << " " << name << " " << sex << " " << T1 << " " << T2 << " " << T3 << " " << T4 << " " << T5 << " " << T6 << " " << T7 << " " << marks << " " << grade << " " << predicted << " " << tes1 << " " << tes2 << " " << tes3 << " " << tes4 << " " << home1 << " " << home2 << " " << home3 << " " << home4 << RESET << endl ;
