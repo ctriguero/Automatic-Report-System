@@ -7,6 +7,5 @@ HEADER line 2: [group] [surname] [name]	[sex]	[List of exam topics names that wi
 ## It is possible that we need to adapt the program according to the exam topics.
 ## Compilation
 g++ [code name.cpp]
-## $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
 ## Run
 ./a.out [data file to analyse.dat] > report.txt
