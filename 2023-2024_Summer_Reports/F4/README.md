@@ -7,5 +7,5 @@ HEADER line 2: [group] [surname] [name]	[sex]	[List of exam topics names that wi
 ## It is possible that we need to adapt the program according to the exam topics.
 ## Compilation
 g++ [code name.cpp]
-## How to run the code
+## How to run the code:
 ./a.out [data file to analyse.dat] > report.txt
