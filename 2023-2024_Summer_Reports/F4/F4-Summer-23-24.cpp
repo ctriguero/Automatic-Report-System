@@ -656,14 +656,14 @@ while (getline(InputFile, line))
             // A* Performance
             if ( ClassMarkAve >= 90 )
             {
-            cout << Cheshe[sus] << " maintained an " << tops[choicesc3] << " standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil and grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
-            }
+            cout << Cheshe[sus] << " maintained an " << tops[choicesc3] << " standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " ;
+            }  //cout << Cheshe[sus] << " maintained an " << tops[choicesc3] << " standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil and grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
 
             // A Performance No dispersion considered.
             if ( 90 > ClassMarkAve && ClassMarkAve >= 80 )
             {
-            cout << Cheshe[sus] << " maintained a very high and consistent standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil and grasps new physical concepts with ease and can select and apply equations " << AsRequired[choicesa5] << ".  " ;
-            }
+            cout << Cheshe[sus] << " maintained a very high and consistent standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " ;
+            } //cout << Cheshe[sus] << " maintained a very high and consistent standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil and grasps new physical concepts with ease and can select and apply equations " << AsRequired[choicesa5] << ".  " ;
 
             // B Performance
             // Idem dispersion or not
@@ -771,7 +771,8 @@ while (getline(InputFile, line))
             // A* performance
             if ( ClassMarkAve >= 90 )
             {
-            cout << Cheshe[sus] << " maintained " << Excellence[choicesb2] << " high standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil and grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
+            cout << Cheshe[sus] << " maintained " << Excellence[choicesb2] << " high standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " ;
+            //cout << Cheshe[sus] << " maintained " << Excellence[choicesb2] << " high standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
 
 
            // Any of this conditions or one or other or etc activates room for improvement
@@ -779,33 +780,33 @@ while (getline(InputFile, line))
             if ( CountTopics != 0 || HomeworkLack == 1 || HomeworkAve <= Homeworkcut )
             {
 
-                cout << "To secure " << hisher[sus] << " GCSE performance " ; // To ensure a strong performance in his GCSE exams
+                cout << "To secure " << hisher[sus] << " GCSE performance, " ; // To ensure a strong performance in his GCSE exams
 
                 if ( HomeworkAve <= Homeworkcut && HomeworkLack == 0 )
                 {
-                cout << Cheshe[sus] << " should improve the quality of " << hisher[sus] << " homework.  ";
+                cout << heshe[sus] << " should improve the quality of " << hisher[sus] << " homework.  ";
                 }
 
                 if ( HomeworkAve <= Homeworkcut && HomeworkLack == 1 )
                 {
-                cout << Cheshe[sus] << " should complete all homework and raise its quality.  ";
+                cout << heshe[sus] << " should complete all homework and raise its quality.  ";
                 }
 
                 if ( HomeworkAve > Homeworkcut && HomeworkLack == 1 )
                 {
                 // cout << Cheshe[sus] << " must complete all " << hisher[sus] << " homework.  ";
-                cout << Cheshe[sus] << " should complete all homework.  ";
+                cout << heshe[sus] << " should complete all homework.  ";
                 }
 
                 if (CountTopics != 0)
                 {
                     if (alltopics == 0)
                     {
-                    cout << "a revision of the " << topikini[toto] << " " << ToRevise << " is suggested.  " ; 
+                    cout << "A revision of the " << topikini[toto] << " " << ToRevise << " is suggested.  " ; 
                     }
                     else
                     {
-                    cout << "a comprehensive review of all topics covered in this course is suggested.  " ;
+                    cout << "A comprehensive review of all topics covered in this course is suggested.  " ;
                     }   
                 }
             cout << endl ; 
@@ -831,41 +832,41 @@ while (getline(InputFile, line))
             // A performance
             if ( 90 > ClassMarkAve && ClassMarkAve >= 80 ) // He consistently maintained an excellent standard throughout the year.
             {
-            cout << Cheshe[sus] << " consistently maintained " << Excellence[choicesb2] << " standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil and grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
-
+            cout << Cheshe[sus] << " consistently maintained " << Excellence[choicesb2] << " standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " ;
+//cout << Cheshe[sus] << " consistently maintained " << Excellence[choicesb2] << " standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
 
             // Any of this conditions or one or other or etc activates room for improvement
 
             if ( CountTopics != 0 || HomeworkLack == 1 || HomeworkAve <= Homeworkcut )
             {
 
-                cout << "To secure " << hisher[sus] << " GCSE performance " ;
+                cout << "To secure " << hisher[sus] << " GCSE performance, " ;
 
                 if ( HomeworkAve <= Homeworkcut && HomeworkLack == 0 )
                 {
-                cout << Cheshe[sus] << " should improve the quality of " << hisher[sus] << " homework.  ";
+                cout << heshe[sus] << " should improve the quality of " << hisher[sus] << " homework.  ";
                 }
 
                 if ( HomeworkAve <= Homeworkcut && HomeworkLack == 1 )
                 {
-                cout << Cheshe[sus] << " should complete all homework and raise its quality.  ";
+                cout << heshe[sus] << " should complete all homework and raise its quality.  ";
                 }
 
                 if ( HomeworkAve > 70 && HomeworkLack == 1 )
                 {
                 // cout << Cheshe[sus] << " must complete all " << hisher[sus] << " homework.  ";
-                cout << Cheshe[sus] << " should complete all homework.  ";
+                cout << heshe[sus] << " should complete all homework.  ";
                 }
 
                 if (CountTopics != 0)
                 {
                     if (alltopics == 0)
                     {
-                    cout << "it is suggested that " << heshe[sus] << " reviews the " << topikini[toto] << " " << ToRevise << " over the summer.  " ; 
+                    cout << "It is suggested that " << heshe[sus] << " reviews the " << topikini[toto] << " " << ToRevise << " over the summer.  " ; 
                     }
                     else
                     {
-                    cout << "a comprehensive review of all topics covered in this course is suggested.  " ;
+                    cout << "A comprehensive review of all topics covered in this course is suggested.  " ;
                     }   
                 }
             cout << endl ; 
@@ -1123,39 +1124,40 @@ while (getline(InputFile, line))
         // A* performance
         if ( ClassMarkAve >= 90 )
         {
-            cout << Cheshe[sus] << " maintained " << Excellence[choicesb2] << " high standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil and grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
+            cout << Cheshe[sus] << " maintained " << Excellence[choicesb2] << " high standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " ;
+            //cout << Cheshe[sus] << " maintained " << Excellence[choicesb2] << " high standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
 
 
             // Any of this conditions or one or other or etc activates room for improvement
 
             if ( CountTopics != 0 || HomeworkLack == 1 || HomeworkAve <= Homeworkcut )
             {
-                cout << "To secure " << hisher[sus] << " GCSE performance " ;
+                cout << "To secure " << hisher[sus] << " GCSE performance, " ;
 
                 if ( HomeworkAve <= Homeworkcut && HomeworkLack == 0 )
                 {
-                cout << Cheshe[sus] << " should improve the quality of " << hisher[sus] << " homework.  ";
+                cout << heshe[sus] << " should improve the quality of " << hisher[sus] << " homework.  ";
                 }
 
                 if ( HomeworkAve <= Homeworkcut && HomeworkLack == 1 )
                 {
-                cout << Cheshe[sus] << " should complete all homework and raise its quality.  ";
+                cout << heshe[sus] << " should complete all homework and raise its quality.  ";
                 }
 
                 if ( HomeworkAve > 70 && HomeworkLack == 1 )
                 {
-                cout << Cheshe[sus] << " should complete all homework.  ";
+                cout << heshe[sus] << " should complete all homework.  ";
                 }
 
                 if (CountTopics != 0)
                 {
                     if (alltopics == 0)
                     {
-                    cout << "a revision of the " << topikini[toto] << " " << ToRevise << " is suggested.  " ; 
+                    cout << "A revision of the " << topikini[toto] << " " << ToRevise << " is suggested.  " ; 
                     }
                     else
                     {
-                    cout << "a comprehensive review of all topics covered in this course is suggested.  " ;
+                    cout << "A comprehensive review of all topics covered in this course is suggested.  " ;
                     }   
                 }
                 cout << endl ; 
@@ -1181,29 +1183,30 @@ while (getline(InputFile, line))
         // A performance
         if ( 90 > ClassMarkAve && ClassMarkAve >= 80 )
         {
-            cout << Cheshe[sus] << " maintained " << Excellence[choicesb2] << " and consistent standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil and grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
+            cout << Cheshe[sus] << " maintained " << Excellence[choicesb2] << " and consistent standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " ;
+            //cout << Cheshe[sus] << " maintained " << Excellence[choicesb2] << " and consistent standard throughout the year.  " << Cheshe[sus]  << " is a highly capable pupil who grasps new physical concepts with ease.  " << Cheshe[sus]  << " can select and apply equations " << AsRequired[choicesa5] << ".  " ;
 
 
             // Any of this conditions or one or other or etc activates room for improvement
 
             if ( CountTopics != 0 || HomeworkLack == 1 || HomeworkAve <= Homeworkcut )
             {
-                cout << "To secure " << hisher[sus] << " GCSE performance " ;
+                cout << "To secure " << hisher[sus] << " GCSE performance, " ;
 
                 if ( HomeworkAve <= Homeworkcut && HomeworkLack == 0 )
                 {
-                cout << Cheshe[sus] << " should improve the quality of " << hisher[sus] << " homework.  ";
+                cout << heshe[sus] << " should improve the quality of " << hisher[sus] << " homework.  ";
                 }
 
                 if ( HomeworkAve <= Homeworkcut && HomeworkLack == 1 )
                 {
-                cout << Cheshe[sus] << " should complete all homework and raise its quality.  ";
+                cout << heshe[sus] << " should complete all homework and raise its quality.  ";
                 }
 
                 if ( HomeworkAve > 70 && HomeworkLack == 1 )
                 {
                 // cout << Cheshe[sus] << " must complete all " << hisher[sus] << " homework.  ";
-                cout << Cheshe[sus] << " should complete all homework.  ";
+                cout << heshe[sus] << " should complete all homework.  ";
                 }
 
                 if (CountTopics != 0)
@@ -1214,7 +1217,7 @@ while (getline(InputFile, line))
                     }
                     else
                     {
-                    cout << "a comprehensive review of all topics covered in this course is suggested.  " ;
+                    cout << "A comprehensive review of all topics covered in this course is suggested.  " ;
                     }   
                 }
                 cout << endl ; 
