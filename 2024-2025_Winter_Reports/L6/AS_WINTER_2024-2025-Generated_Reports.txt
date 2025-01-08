@@ -1,0 +1,193 @@
+
+[1m[33m    _________________________________________________
+[1m[33m            _=_                                      [0m
+[1m[33m          q(-_-)p                                    [0m
+[1m[33m          '_) (_`         REPORT GENERATOR        [0m
+[1m[33m          /__/  \         Carles Triguero 2023      [0m
+[1m[33m        _(<_   / )_                                  [0m
+[1m[33m       (__\_\_|_/__)                               [0m
+[1m[33m    _________________________________________________[0m
+
+[33m    -> File [1m[33mAS_Winter_2024-2025_reports_data.dat[0m[33m found[0m
+[33m    -> Processing file: [1m[33mAS_Winter_2024-2025_reports_data.dat[0m
+File headers
+[33mgroup surname name sex PhysQuant Vectors Moments LinMotion Projectile Practical PQSCVEC Moments Projectile[0m
+
+
+
+
+
+
+
+Ashish Anthony, ASB
+(Mark= 72  Grade B class min 48 class max 75 Class ave: 63 Class dis: 27 to revise: 2 topics)
+
+Ashish attained an adequate result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  Well done Ashish!
+
+
+He has continued to perform at an irregular but rising standard throughout the term.  His progression has been reflected in his Winter examination.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of VectorsPractical to consolidate his knowledge.  
+
+
+
+
+Frank Boakye, ASB
+(Mark= 56  Grade C class min 46 class max 97 Class ave: 68 Class dis: 51 to revise: 4 topics)
+
+Frank achieved a modest result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is progressively adapting to the demands of A-level studies but finds them challenging.  He has maintained a good but slightly irregular standard throughout the term, which has been reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of PhysQuantLinMotionProjectilePractical to consolidate his knowledge.  
+
+
+
+
+Daniel Crozier, ASB
+(Mark= 69  Grade B class min 66 class max 83 Class ave: 74 Class dis: 17 to revise: 3 topics)
+
+Daniel reached a satisfactory result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  Well done Daniel!
+
+
+He has responded positively to the demands of the subject maintaining consistently a good standard throughout the term.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of PhysQuantLinMotionPractical to consolidate his knowledge.  
+
+
+
+
+Paige Hawthorne, ASB
+(Mark= 80  Grade A class min 60 class max 86 Class ave: 71 Class dis: 26 to revise: 0 topics)
+
+Paige attained a superb result in her Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  She adapted exceptionally well to the rigorous demands of A-level studies.  She maintained a pleasing but irregular standard throughout the term.  To ensure her A level performance, she must raise the standard of her daily work.  She must improve her practical skills and data analysis.  Well done Paige!
+
+
+
+
+
+Rhys Hill, ASB
+(Mark= 68  Grade B class min 56 class max 79 Class ave: 71 Class dis: 23 to revise: 3 topics)
+
+Rhys achieved a good result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  Well done Rhys!
+
+
+He has responded positively to the demands of the subject maintaining consistently a good standard throughout the term.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of VectorsProjectilePractical to consolidate his knowledge.  
+
+
+
+
+Alexander Irvine, ASB
+(Mark= 69  Grade B class min 59 class max 83 Class ave: 72 Class dis: 24 to revise: 2 topics)
+
+Alexander achieved a good result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  Well done Alexander!
+
+
+He has responded positively to the demands of the subject maintaining consistently a good standard throughout the term.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of VectorsPractical to consolidate his knowledge.  
+
+
+
+
+Taariq Jeetun, ASB
+(Mark= 47  Grade D class min 47 class max 95 Class ave: 63 Class dis: 48 to revise: 5 topics)
+
+Taariq obtained a discouraging result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is struggling to adapt to the demands of A-level Physics.  He has maintained an inconsistent standard throughout the term.  He must improve his practical skills and data analysis.  To progress, a much more committed approach is necessary.  He should revise the topics of PhysQuantVectorsMomentsLinMotionPractical to consolidate his knowledge.  
+
+
+
+
+Rebecca Jefferson, ASB
+(Mark= 82  Grade A class min 74 class max 93 Class ave: 85 Class dis: 19 to revise: 0 topics)
+
+Rebecca reached a fabulous result in her Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  She adapted exceptionally well to the rigorous demands of A-level studies.  She maintained an excellent and consistent standard throughout the term.  She is a highly capable pupil and grasps new physical concepts with ease.  She can select and apply equations according to need.  Well done Rebecca!
+
+
+
+
+
+Marcus Lam, ASB
+(Mark= 92  Grade A class min 88 class max 100 Class ave: 93 Class dis: 12 to revise: 1 topics)
+
+Marcus reached a fabulous result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained a superb high standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations appropriately.  He must improve his practical skills and data analysis.  To secure his A level performance A revision of the topic of Practical is suggested.  
+
+
+
+
+Oliver Magee, ASB
+(Mark= 63  Grade C class min 53 class max 73 Class ave: 62 Class dis: 20 to revise: 3 topics)
+
+Oliver reached a modest result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is progressively adapting to the demands of A-level studies but finds them challenging.  He has maintained a good and consistent standard throughout the term, which has been reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of MomentsLinMotionPractical to consolidate his knowledge.  
+
+
+
+
+Zakhir Manjoo, ASB
+(Mark= 10  Grade U class min 38 class max 86 Class ave: 65 Class dis: 48 to revise: 5 topics)
+
+Zakhir obtained an unsatisfactory result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is finding it particularly difficult to meet the demands of A-level Physics.  He has maintained an inconsistent standard throughout the term.  He must improve his practical skills and data analysis.  A thorough review of his study methods is necessary.  He should create a structured routine, focus on key concepts, seek extra help, and practise past papers regularly to address weaknesses and improve.  In particular, he should revise the topics of PhysQuantVectorsLinMotionProjectilePractical.
+
+
+
+
+Caren Nmorsi, ASB
+(Mark= 36  Grade E class min 24 class max 55 Class ave: 41 Class dis: 31 to revise: 5 topics)
+
+Caren obtained a discouraging result in her Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  She is finding it particularly difficult to meet the demands of A-level Physics.  Her performance was inconsistent and poor throughout the term.  She must improve her practical skills and data analysis.  A thorough review of her study methods is necessary.  She should create a structured routine, focus on key concepts, seek extra help, and practise past papers regularly to address weaknesses and improve.  In particular, she should revise the topics of PhysQuantVectorsMomentsLinMotionPractical.
+
+
+
+
+Aayush Pandey, ASB
+(Mark= 69  Grade B class min 44 class max 69 Class ave: 60 Class dis: 25 to revise: 3 topics)
+
+Aayush attained an adequate result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  Well done Aayush!
+
+
+He has maintained a consistent and pleasing standard throughout the term.  His steady progression has been reflected in his Winter examination.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of PhysQuantLinMotionPractical to consolidate his knowledge.  
+
+
+
+
+Ben Ross, ASB
+(Mark= 69  Grade B class min 60 class max 70 Class ave: 66 Class dis: 10 to revise: 2 topics)
+
+Ben attained an adequate result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  Well done Ben!
+
+
+He has maintained a consistent and pleasing standard throughout the term.  His steady progression has been reflected in his Winter examination.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of VectorsPractical to consolidate his knowledge.  
+
+
+
+
+Aaron Scullion, ASB
+(Mark= 76  Grade B class min 56 class max 83 Class ave: 69 Class dis: 27 to revise: 1 topics)
+
+Aaron achieved a good result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  Well done Aaron!
+
+
+He has continued to perform at an irregular but rising standard throughout the term.  His progression has been reflected in his Winter examination.  He must improve his practical skills and data analysis.  To do even better, He should revise the topic of Practical to consolidate his knowledge.  
+
+
+
+
+Ruan Starks, ASB
+(Mark= 61  Grade C class min 56 class max 88 Class ave: 75 Class dis: 32 to revise: 2 topics)
+
+Ruan reached a fair result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is progressively adapting to the demands of A-level studies but finds them challenging.  He has maintained a high but slightly irregular standard throughout the year, unfortunately this was not fully reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of PhysQuantLinMotion to consolidate his knowledge.  
+
+
+
+
+Sarah Syeda, ASB
+(Mark= 44  Grade E class min 24 class max 50 Class ave: 34 Class dis: 26 to revise: 6 topics)
+
+Sarah obtained an unsatisfactory result in her Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  She is finding it particularly difficult to meet the demands of A-level Physics.  Her performance was inconsistent and poor throughout the term.  She must improve her practical skills and data analysis.  A thorough review of her study methods is necessary.  She should create a structured routine, focus on key concepts, seek extra help, and practise past papers regularly to address weaknesses and improve.  In particular, she should revise the topics of PhysQuantVectorsMomentsLinMotionProjectilePractical.
+
+
+
+
+Luke Tilson, ASB
+(Mark= 60  Grade C class min 31 class max 63 Class ave: 52 Class dis: 32 to revise: 4 topics)
+
+Luke attained a fair result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is progressively adapting to the demands of A-level studies but finds them challenging.   However, his class performance was irregular and poor.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of VectorsMomentsLinMotionPractical to consolidate his knowledge.  
+
+
+
+
+Luke Wilson, ASB
+(Mark= 29  Grade U class min 24 class max 48 Class ave: 40 Class dis: 24 to revise: 6 topics)
+
+Luke obtained an unsatisfactory result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is finding it particularly difficult to meet the demands of A-level Physics.  His performance was consistently below expectations throughout the term.  he is compromising his potential through lack of effort.  He must improve his practical skills and data analysis.  A thorough review of his study methods is necessary.  He should create a structured routine, focus on key concepts, seek extra help, and practise past papers regularly to address weaknesses and improve.  In particular, he should revise the topics of PhysQuantVectorsMomentsLinMotionProjectilePractical.
+
