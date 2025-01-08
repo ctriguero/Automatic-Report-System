@@ -1,0 +1,436 @@
+
+[1m[33m    _________________________________________________
+[1m[33m            _=_                                      [0m
+[1m[33m          q(-_-)p                                    [0m
+[1m[33m          '_) (_`         REPORT GENERATOR        [0m
+[1m[33m          /__/  \         Carles Triguero 2023      [0m
+[1m[33m        _(<_   / )_                                  [0m
+[1m[33m       (__\_\_|_/__)                               [0m
+[1m[33m    _________________________________________________[0m
+
+[33m    -> File [1m[33mF5_Winter_2024-2025_reports_data.dat[0m[33m found[0m
+[33m    -> Processing file: [1m[33mF5_Winter_2024-2025_reports_data.dat[0m
+A* grade subboundaries
+AXM = 94
+File headers
+[33mgroup surname name sex motion forces HookesLaw moments density energy heatT nuclear waves light mark grade predicted Waves Light Waves Light[0m
+
+
+
+
+[33m5A Alkhateb, Sama F 77 57 71 50 78 40 50 59 33 33 mark C no 55 44 67 94[0m
+
+
+
+Sama Alkhateb, 5A
+(Mark= 54  Grade C class min 44 class max 55 Class ave: 49 Class dis: 11 Homework ave: 80 Homework lack: 0 Homework missed: 4 to revise: 7 topics)
+
+Sama achieved a modest result in her Winter examination.  Her performance in class was consistently below expectations.  To make progress, A comprehensive review of all GCSE physics topics covered so far is recommended.  
+
+[33m5A Boyd, Elijah M 85 86 86 100 89 90 100 100 92 93 mark A* no 63 89 97 100[0m
+
+
+
+Elijah Boyd, 5A
+(Mark= 92  Grade A* class min 63 class max 89 Class ave: 76 Class dis: 26 Homework ave: 98 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Elijah attained an excellent result in his Winter examination.  He maintained a satisfactory yet inconsistent standard throughout the term.  To ensure success in his GCSE, he must improve the standard of his daily work.  Well done Elijah!
+
+
+[33m5A Dong, Ethan M 100 71 86 100 100 100 83 100 83 93 mark A* no 88 85 93 97[0m
+
+
+
+Ethan Dong, 5A
+(Mark= 93  Grade A* class min 85 class max 88 Class ave: 86 Class dis: 3 Homework ave: 95 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Ethan reached a superb result in his Winter examination.  He maintained a superb and consistent standard throughout the term.  He is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations appropriately.  Well done Ethan!
+
+
+[33m5A Forde, Joshua M 54 86 100 80 67 80 50 94 50 93 mark A no 50 31 83 94[0m
+
+
+
+Joshua Forde, 5A
+(Mark= 76  Grade A class min 31 class max 50 Class ave: 40 Class dis: 19 Homework ave: 88 Homework lack: 0 Homework missed: 4 to revise: 3 topics)
+
+Joshua achieved an excellent result in his Winter examination.  Despite his high grade, his class standard was consistently well below this grade.  Raising his standard of daily work is essential in order to ensure success in GCSE.  He must plan and execute his study and homework weekly.  A revision of the topics of motionheatTwaves is suggested.  
+
+[33m5A Graham, Christopher M 77 86 71 90 89 100 83 88 67 87 mark A no 73 80 73 100[0m
+
+
+
+Christopher Graham, 5A
+(Mark= 84  Grade A class min 73 class max 80 Class ave: 76 Class dis: 7 Homework ave: 86 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Christopher attained a superb result in his Winter examination.  He maintained a consistent good standard throughout the term.  However, to ensure his GCSE performance, he must raise the standard of his daily work.  Well done Christopher!
+
+
+[33m5A Hall, Cillian M 100 86 100 90 89 80 83 88 83 67 mark A no 85 85 77 92[0m
+
+
+
+Cillian Hall, 5A
+(Mark= 86  Grade A class min 85 class max 85 Class ave: 85 Class dis: 0 Homework ave: 84 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Cillian reached a fabulous result in his Winter examination.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations to good effect.  Well done Cillian!
+
+
+[33m5A Henderson, Sophie F 54 43 43 90 100 70 50 47 58 33 mark C no 58 64 0 89[0m
+
+
+
+Sophie Henderson, 5A
+(Mark= 58  Grade C class min 58 class max 64 Class ave: 61 Class dis: 6 Homework ave: 44 Homework lack: 1 Homework missed: 5 to revise: 7 topics)
+
+Sophie achieved an acceptable result in her Winter examination.  She has maintained a good but slightly irregular standard throughout the term, unfortunately this was not fully reflected in her Winter examination.  To make progress, completing all homework to her higher standard is essential.  A comprehensive review of all GCSE physics topics covered so far is recommended.  
+
+[33m5A Kelly, Ethan M 100 100 100 90 100 80 67 100 83 87 mark A* no 85 80 87 97[0m
+
+
+
+Ethan Kelly, 5A
+(Mark= 92  Grade A* class min 80 class max 85 Class ave: 82 Class dis: 5 Homework ave: 92 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Ethan reached an excellent result in his Winter examination.  He maintained a superb and consistent standard throughout the term.  He is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations as required.  Well done Ethan!
+
+
+[33m5A Looney, Grace F 69 14 86 100 78 80 83 47 25 13 mark C no 63 63 100 89[0m
+
+
+
+Grace Looney, 5A
+(Mark= 56  Grade C class min 63 class max 63 Class ave: 63 Class dis: 0 Homework ave: 94 Homework lack: 0 Homework missed: 4 to revise: 4 topics)
+
+Grace reached a fair result in her Winter examination.  She has maintained a good but slightly irregular standard throughout the term, unfortunately this was not fully reflected in her Winter examination.  To make progress, She should revise the topics of forcesnuclearwaveslight to consolidate her knowledge.  
+
+[33m5A Lua, Jessica F 100 86 86 100 100 100 100 100 100 100 mark A* no 93 91 100 89[0m
+
+
+
+Jessica Lua, 5A
+(Mark= 98  Grade A* class min 91 class max 93 Class ave: 92 Class dis: 2 Homework ave: 94 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Jessica achieved an outstanding result in her Winter examination.  She maintained an outstanding standard throughout the term.  She is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations as required.  Well done Jessica!
+
+
+[33m5A Magee, Adam M 92 86 86 90 89 90 83 88 58 73 mark A no 88 78 0 22[0m
+
+
+
+Adam Magee, 5A
+(Mark= 83  Grade A class min 78 class max 88 Class ave: 83 Class dis: 10 Homework ave: 11 Homework lack: 1 Homework missed: 5 to revise: 1 topics)
+
+Adam attained a superb result in his Winter examination.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations in different situations.  To secure his GCSE performance Heshould complete all homework to his higher standard.  A revision of the topic of waves is suggested.  
+
+[33m5A McCallum, Alice F 92 57 57 80 56 60 100 47 58 60 mark B no 78 47 100 0[0m
+
+
+
+Alice McCallum, 5A
+(Mark= 65  Grade B class min 47 class max 78 Class ave: 62 Class dis: 31 Homework ave: 50 Homework lack: 1 Homework missed: 5 to revise: 7 topics)
+
+Alice attained an adequate result in her Winter examination.  She has continued to perform at an irregular but rising standard throughout the term.  Her progression has been reflected in her Winter examination.  To do even better, quality completion of all homework is fundamental.  A thorough review of all GCSE physics topics covered so far is important to consolidate her knowledge.  
+
+[33m5A McElhinney, Olivia F 100 71 86 100 100 90 100 100 92 87 mark A* no 85 85 97 100[0m
+
+
+
+Olivia McElhinney, 5A
+(Mark= 93  Grade A* class min 85 class max 85 Class ave: 85 Class dis: 0 Homework ave: 98 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Olivia reached an excellent result in her Winter examination.  She maintained a superb and consistent standard throughout the term.  She is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations appropriately.  Well done Olivia!
+
+
+[33m5A Millar, Zara F 100 57 100 90 78 100 100 100 75 87 mark A* no 85 75 97 100[0m
+
+
+
+Zara Millar, 5A
+(Mark= 90  Grade A* class min 75 class max 85 Class ave: 80 Class dis: 10 Homework ave: 98 Homework lack: 0 Homework missed: 4 to revise: 1 topics)
+
+Zara attained a superb result in her Winter examination.  She maintained a superb and consistent standard throughout the term.  She is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations according to need.  To ensure success, a revision of the topic of forces is suggested.  
+
+[33m5A Patterson, Harry M 100 100 100 90 89 90 100 88 67 80 mark A* no 75 75 83 100[0m
+
+
+
+Harry Patterson, 5A
+(Mark= 88  Grade A* class min 75 class max 75 Class ave: 75 Class dis: 0 Homework ave: 91 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Harry achieved an excellent result in his Winter examination.  He maintained a consistently high standard throughout the term.  However, to ensure success in his GCSE, he must continue working daily to the best of his ability.  Well done Harry!
+
+
+[33m5A Poots, Heidi F 69 100 100 90 89 70 100 76 58 80 mark A no 68 62 100 89[0m
+
+
+
+Heidi Poots, 5A
+(Mark= 80  Grade A class min 62 class max 68 Class ave: 65 Class dis: 6 Homework ave: 94 Homework lack: 0 Homework missed: 4 to revise: 1 topics)
+
+Heidi attained a superb result in her Winter examination.  Despite her high grade, her class standard was consistently well below this grade.  Improving the standard of her daily work is essential to ensure success in his GCSE.  A revision of the topic of waves is suggested.  
+
+[33m5A Rourke, Elysia F 85 29 86 70 44 50 67 47 67 27 mark C no 83 65 100 0[0m
+
+
+
+Elysia Rourke, 5A
+(Mark= 56  Grade C class min 65 class max 83 Class ave: 74 Class dis: 18 Homework ave: 50 Homework lack: 1 Homework missed: 5 to revise: 5 topics)
+
+Elysia reached a fair result in her Winter examination.  She has maintained a consistent high standard throughout the term, unfortunately this was not fully reflected in her Winter examination.  To make progress, completing all homework to her higher standard is essential.  A comprehensive review of all GCSE physics topics covered so far is recommended.  
+
+[33m5A Sajan, Tom M 15 14 43 80 11 0 33 18 58 20 mark E no 55 75 83 92[0m
+
+
+
+Tom Sajan, 5A
+(Mark= 28  Grade E class min 55 class max 75 Class ave: 65 Class dis: 20 Homework ave: 87 Homework lack: 0 Homework missed: 4 to revise: 9 topics)
+
+Tom obtained a discouraging result in his Winter examination.  He has maintained a fair and consistent standard throughout the term,  unfortunately he underperformed in his Winter examination.  To progress, a much more committed approach is necessary.  A comprehensive review of all GCSE physics topics covered so far is recommended..  
+
+[33m5A Simms, Frederick M 85 43 100 60 100 20 67 59 58 53 mark C* no 83 65 0 72[0m
+
+
+
+Frederick Simms, 5A
+(Mark= 63  Grade C* class min 65 class max 83 Class ave: 74 Class dis: 18 Homework ave: 36 Homework lack: 1 Homework missed: 5 to revise: 6 topics)
+
+Frederick attained a fair result in his Winter examination.  He has maintained a consistent high standard throughout the term, unfortunately this was not fully reflected in his Winter examination.  To progress, quality completion of all homework is fundamental.  A comprehensive review of all GCSE physics topics covered so far should be made.  
+
+[33m5A Sugar, Karina F 62 71 86 90 78 100 17 76 100 60 mark A no 100 93 100 100[0m
+
+
+
+Karina Sugar, 5A
+(Mark= 75  Grade A class min 93 class max 100 Class ave: 96 Class dis: 7 Homework ave: 100 Homework lack: 0 Homework missed: 4 to revise: 3 topics)
+
+Karina reached a fabulous result in her Winter examination.  She maintained an excellent high standard throughout the term.  She is a highly capable pupil and grasps new physical concepts with ease.  She can select and apply equations in different situations.  To secure her GCSE performance A revision of the topics of motionheatTlight is suggested.  
+
+[33m5A Thornton, Freya F 77 71 100 80 89 70 50 59 75 67 mark B no 73 69 73 67[0m
+
+
+
+Freya Thornton, 5A
+(Mark= 73  Grade B class min 69 class max 73 Class ave: 71 Class dis: 4 Homework ave: 70 Homework lack: 0 Homework missed: 4 to revise: 2 topics)
+
+Freya achieved a good result in her Winter examination.  She has responded positively to the demands of the subject maintaining consistently a good standard throughout the term.  To do even better, improve the quality of her homework is fundamental.  She should revise the topics of heatTnuclear to consolidate her knowledge.  
+
+[33m5D1 Ahmad, Yamin M 85 86 100 90 89 100 33 94 100 93 mark A* no 75 85 97 100[0m
+
+
+
+Yamin Ahmad, 5D1
+(Mark= 90  Grade A* class min 75 class max 85 Class ave: 80 Class dis: 10 Homework ave: 98 Homework lack: 0 Homework missed: 4 to revise: 1 topics)
+
+Yamin attained an excellent result in his Winter examination.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations to good effect.  To ensure success, a revision of the topic of heatT is suggested.  
+
+[33m5D1 Ball, Nicky M 38 29 57 40 100 40 67 59 8 33 mark D no 38 22 87 0[0m
+
+
+
+Nicky Ball, 5D1
+(Mark= 45  Grade D class min 22 class max 38 Class ave: 30 Class dis: 16 Homework ave: 43 Homework lack: 1 Homework missed: 5 to revise: 8 topics)
+
+Nicky obtained a disappointing result in his Winter examination.  His performance was consistently poor throughout the term.  he is compromising his potential through lack of effort.  To progress, a much more committed approach is necessary.  quality completion of all homework is fundamental.  A comprehensive review of all GCSE physics topics covered so far is recommended.  
+
+[33m5D1 Buchanan, Cara F 77 43 71 80 78 40 67 82 67 40 mark B no 45 62 87 83[0m
+
+
+
+Cara Buchanan, 5D1
+(Mark= 65  Grade B class min 45 class max 62 Class ave: 53 Class dis: 17 Homework ave: 85 Homework lack: 0 Homework missed: 4 to revise: 3 topics)
+
+Cara reached a satisfactory result in her Winter examination.  Although, her class marks were consistently low throughout the term, she improved her standard for the Winter examination.  To do even better, She should revise the topics of forcesenergylight to consolidate her knowledge.  
+
+[33m5D1 Cheung, Harry M 92 86 86 80 100 90 67 88 42 80 mark A no 83 76 93 75[0m
+
+
+
+Harry Cheung, 5D1
+(Mark= 81  Grade A class min 76 class max 83 Class ave: 79 Class dis: 7 Homework ave: 84 Homework lack: 0 Homework missed: 4 to revise: 1 topics)
+
+Harry achieved an excellent result in his Winter examination.  He maintained a consistent good standard throughout the term.  However, to ensure his GCSE performance, he must raise the standard of his daily work.  To accomplish that he needs regular independent study.  A revision of the topic of waves is suggested.  
+
+[33m5D1 Detty, Deion M 62 100 71 80 89 100 100 65 67 73 mark A no 53 51 93 97[0m
+
+
+
+Deion Detty, 5D1
+(Mark= 76  Grade A class min 51 class max 53 Class ave: 52 Class dis: 2 Homework ave: 95 Homework lack: 0 Homework missed: 4 to revise: 1 topics)
+
+Deion attained a superb result in his Winter examination.  Despite his high grade, his class standard was consistently well below this grade.  Raising his standard of daily work is essential in order to ensure success in GCSE.   To accomplish that he must plan and execute his study and homework weekly.  A revision of the topic of motion is suggested.  
+
+[33m5D1 Dong, Raymond M 100 71 71 60 89 60 100 76 42 87 mark A no 65 65 90 86[0m
+
+
+
+Raymond Dong, 5D1
+(Mark= 75  Grade A class min 65 class max 65 Class ave: 65 Class dis: 0 Homework ave: 88 Homework lack: 0 Homework missed: 4 to revise: 3 topics)
+
+Raymond attained a superb result in his Winter examination.  Despite his high grade, his class standard was consistently well below this grade.  Improving the standard of his daily work is essential to ensure success in his GCSE.  A revision of the topics of momentsenergywaves is suggested.  
+
+[33m5D1 Elliott, Remi M 92 71 100 90 56 80 83 94 100 93 mark A* no 93 76 90 92[0m
+
+
+
+Remi Elliott, 5D1
+(Mark= 88  Grade A* class min 76 class max 93 Class ave: 84 Class dis: 17 Homework ave: 91 Homework lack: 0 Homework missed: 4 to revise: 1 topics)
+
+Remi attained an excellent result in his Winter examination.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations in different situations.  To ensure success, a revision of the topic of density is suggested.  
+
+[33m5D1 Gazdaru, David M 100 14 57 50 89 60 67 18 58 47 mark C no 18 18 57 100[0m
+
+
+
+David Gazdaru, 5D1
+(Mark= 55  Grade C class min 18 class max 18 Class ave: 18 Class dis: 0 Homework ave: 78 Homework lack: 0 Homework missed: 4 to revise: 7 topics)
+
+David reached an acceptable result in his Winter examination.  His performance in class was consistently below expectations.  To make progress, A comprehensive review of all GCSE physics topics covered so far is recommended.  
+
+[33m5D1 Hanna, Joshua M 85 57 71 80 100 90 83 94 67 60 mark A no 58 64 93 94[0m
+
+
+
+Joshua Hanna, 5D1
+(Mark= 79  Grade A class min 58 class max 64 Class ave: 61 Class dis: 6 Homework ave: 93 Homework lack: 0 Homework missed: 4 to revise: 2 topics)
+
+Joshua achieved an excellent result in his Winter examination.  Despite his high grade, his class standard was consistently well below this grade.  Improving the standard of his daily work is essential to ensure success in his GCSE.  A revision of the topics of forceslight is suggested.  
+
+[33m5D1 Houston, Connor M 100 71 100 100 100 70 50 65 58 87 mark A no 75 62 0 94[0m
+
+
+
+Connor Houston, 5D1
+(Mark= 79  Grade A class min 62 class max 75 Class ave: 68 Class dis: 13 Homework ave: 47 Homework lack: 1 Homework missed: 5 to revise: 2 topics)
+
+Connor achieved an excellent result in his Winter examination.  Despite his high grade, his class standard was consistently well below this grade.  Improving the standard of his daily work is essential to ensure success in his GCSE.  Heshould complete all homework to his higher standard.  A revision of the topics of heatTwaves is suggested.  
+
+[33m5D1 Leeson, Amelia M 62 43 29 30 44 50 33 59 8 13 mark D no 63 63 93 94[0m
+
+
+
+Amelia Leeson, 5D1
+(Mark= 38  Grade D class min 63 class max 63 Class ave: 63 Class dis: 0 Homework ave: 93 Homework lack: 0 Homework missed: 4 to revise: 10 topics)
+
+Amelia obtained a disappointing result in his Winter examination.  He has maintained a fair and consistent standard throughout the term,  unfortunately he underperformed in his Winter examination.  To progress, a much more committed approach is necessary.  A comprehensive review of all GCSE physics topics covered so far is recommended.  
+
+[33m5D1 McCann, Peter M 92 100 100 100 100 100 100 100 100 73 mark A* no 98 78 83 86[0m
+
+
+
+Peter McCann, 5D1
+(Mark= 95  Grade A* class min 78 class max 98 Class ave: 88 Class dis: 20 Homework ave: 84 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Peter attained an exceptional result in his Winter examination.  He consistently maintained a very high standard throughout the term.  He is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations appropriately.  Well done Peter!
+
+
+[33m5D1 McGowanGould, Brody M 77 57 86 50 100 80 67 82 83 80 mark A no 73 62 73 94[0m
+
+
+
+Brody McGowanGould, 5D1
+(Mark= 77  Grade A class min 62 class max 73 Class ave: 67 Class dis: 11 Homework ave: 83 Homework lack: 0 Homework missed: 4 to revise: 2 topics)
+
+Brody achieved an excellent result in his Winter examination.  Despite his high grade, his class standard was consistently well below this grade.  Improving the standard of his daily work is essential to ensure success in his GCSE.  A revision of the topics of forcesmoments is suggested.  
+
+[33m5D1 McNeill, Patrick M 100 86 71 80 100 70 100 100 83 87 mark A* no 90 58 93 97[0m
+
+
+
+Patrick McNeill, 5D1
+(Mark= 89  Grade A* class min 58 class max 90 Class ave: 74 Class dis: 32 Homework ave: 95 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Patrick attained an excellent result in his Winter examination.  He maintained a satisfactory yet inconsistent standard throughout the term.  To ensure success in his GCSE, he must improve the standard of his daily work.  Well done Patrick!
+
+
+[33m5D1 MohdFaisal, Harisah F 62 100 71 100 78 80 100 100 92 93 mark A* no 83 91 97 100[0m
+
+
+
+Harisah MohdFaisal, 5D1
+(Mark= 88  Grade A* class min 83 class max 91 Class ave: 87 Class dis: 8 Homework ave: 98 Homework lack: 0 Homework missed: 4 to revise: 1 topics)
+
+Harisah reached an excellent result in her Winter examination.  She maintained a superb and consistent standard throughout the term.  She is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations appropriately.  To ensure success, a revision of the topic of motion is suggested.  
+
+[33m5D1 Murchie, Morgan M 23 57 57 70 44 30 67 53 25 40 mark D no 25 11 90 81[0m
+
+
+
+Morgan Murchie, 5D1
+(Mark= 44  Grade D class min 11 class max 25 Class ave: 18 Class dis: 14 Homework ave: 85 Homework lack: 0 Homework missed: 4 to revise: 8 topics)
+
+Morgan obtained an unsatisfactory result in his Winter examination.  His performance was consistently poor throughout the term.  he is compromising his potential through lack of effort.  To progress, a much more committed approach is necessary.  A comprehensive review of all GCSE physics topics covered so far is recommended.  
+
+[33m5D1 Phelan, Rhys M 54 57 86 70 89 70 83 71 92 53 mark B no 70 53 70 92[0m
+
+
+
+Rhys Phelan, 5D1
+(Mark= 71  Grade B class min 53 class max 70 Class ave: 61 Class dis: 17 Homework ave: 81 Homework lack: 0 Homework missed: 4 to revise: 3 topics)
+
+Rhys attained an adequate result in his Winter examination.  He has maintained a consistent and pleasing standard throughout the term.  His steady progression has been reflected in his Winter examination.  To do even better, He should revise the topics of motionforceslight to consolidate his knowledge.  
+
+[33m5D1 Riddell, Henry M 38 71 86 80 67 20 83 71 50 87 mark C* no 53 73 87 100[0m
+
+
+
+Henry Riddell, 5D1
+(Mark= 64  Grade C* class min 53 class max 73 Class ave: 63 Class dis: 20 Homework ave: 93 Homework lack: 0 Homework missed: 4 to revise: 3 topics)
+
+Henry attained an acceptable result in his Winter examination.  He has maintained a good and consistent standard throughout the term, which has been reflected in his Winter examination.  To progress, He should revise the topics of motionenergywaves to consolidate his knowledge.  
+
+[33m5D1 Salazar, Zandrei M 85 71 86 90 89 80 50 35 75 73 mark B no 65 62 100 97[0m
+
+
+
+Zandrei Salazar, 5D1
+(Mark= 72  Grade B class min 62 class max 65 Class ave: 63 Class dis: 3 Homework ave: 98 Homework lack: 0 Homework missed: 4 to revise: 2 topics)
+
+Zandrei reached a satisfactory result in his Winter examination.  He has maintained a consistent and pleasing standard throughout the term.  His steady progression has been reflected in his Winter examination.  To do even better, He should revise the topics of heatTnuclear to consolidate his knowledge.  
+
+[33m5D1 Singh, Sara F 85 100 86 90 89 90 100 94 75 87 mark A* no 80 84 93 97[0m
+
+
+
+Sara Singh, 5D1
+(Mark= 89  Grade A* class min 80 class max 84 Class ave: 82 Class dis: 4 Homework ave: 95 Homework lack: 0 Homework missed: 4 to revise: 0 topics)
+
+Sara reached a superb result in her Winter examination.  She maintained an excellent and consistent standard throughout the term.  She is a highly capable pupil, quickly grasping new physical concepts and effectively selecting and applying equations in different situations.  Well done Sara!
+
+
+[33m5D1 Stanley, Rory M 31 14 71 40 78 20 17 18 8 33 mark D no 47 47 0 89[0m
+
+
+
+Rory Stanley, 5D1
+(Mark= 31  Grade D class min 47 class max 47 Class ave: 47 Class dis: 0 Homework ave: 44 Homework lack: 1 Homework missed: 5 to revise: 8 topics)
+
+Rory obtained a discouraging result in his Winter examination.  His performance was consistently poor throughout the term.  he is compromising his potential through lack of effort.  To progress, a much more committed approach is necessary.  quality completion of all homework is fundamental.  A comprehensive review of all GCSE physics topics covered so far is recommended.  
+
+[33m5D1 Thorogood, George M 77 57 86 80 78 50 67 41 50 73 mark C* no 53 55 80 81[0m
+
+
+
+George Thorogood, 5D1
+(Mark= 64  Grade C* class min 53 class max 55 Class ave: 54 Class dis: 2 Homework ave: 80 Homework lack: 0 Homework missed: 4 to revise: 4 topics)
+
+George reached a fair result in his Winter examination.   However, his class performance was consistently poor.  To progress, He should revise the topics of forcesenergynuclearwaves to consolidate his knowledge.  
+
+[33m5D2 Yakovchuk, Anton M 100 86 86 50 56 60 83 76 42 67 mark B no 83 71 97 97[0m
+
+
+
+Anton Yakovchuk, 5D2
+(Mark= 70  Grade B class min 71 class max 83 Class ave: 77 Class dis: 12 Homework ave: 97 Homework lack: 0 Homework missed: 4 to revise: 4 topics)
+
+Anton achieved a good result in his Winter examination.  He has responded positively to the demands of the subject maintaining consistently a good standard throughout the term.  To do even better, He should revise the topics of momentsdensityenergywaves to consolidate his knowledge.  
+
+[33m5D1 Zhuo, ChaoYu M 100 71 86 50 100 60 83 94 75 100 mark A no 90 73 83 0[0m
+
+
+
+ChaoYu Zhuo, 5D1
+(Mark= 84  Grade A class min 73 class max 90 Class ave: 81 Class dis: 17 Homework ave: 41 Homework lack: 1 Homework missed: 5 to revise: 2 topics)
+
+ChaoYu attained a superb result in his Winter examination.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations to good effect.  To secure his GCSE performance Heshould complete all homework to his higher standard.  A revision of the topics of momentsenergy is suggested.  
+

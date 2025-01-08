@@ -1,5 +1,5 @@
 Winter 2024-2025
-group	surname name	sex	motion	forces	Hooke's Law	moments	density	energy	heat T	nuclear	waves	light	mark	grade	predicted	Waves	Light	Waves	Light
+group	surname name	sex	motion	forces	HookesLaw	moments	density	energy	heatT	nuclear	waves	light	mark	grade	predicted	Waves	Light	Waves	Light
 5A	Alkhateb, Sama	F	77	57	71	50	78	40	50	59	33	33	54	C	no	55	44	67	94
 5A	Boyd, Elijah	M	85	86	86	100	89	90	100	100	92	93	92	A*	no	63	89	97	100
 5A	Dong, Ethan	M	100	71	86	100	100	100	83	100	83	93	93	A*	no	88	85	93	97
@@ -33,9 +33,9 @@ group	surname name	sex	motion	forces	Hooke's Law	moments	density	energy	heat T	n
 5D1	Houston, Connor	M	100	71	100	100	100	70	50	65	58	87	79	A	no	75	62	0	94
 5D1	Leeson, Amelia	M	62	43	29	30	44	50	33	59	8	13	38	D	no	63	63	93	94
 5D1	McCann, Peter	M	92	100	100	100	100	100	100	100	100	73	95	A*	no	98	78	83	86
-5D1	McGowan-Gould, Brody	M	77	57	86	50	100	80	67	82	83	80	77	A	no	73	62	73	94
+5D1	McGowanGould, Brody	M	77	57	86	50	100	80	67	82	83	80	77	A	no	73	62	73	94
 5D1	McNeill, Patrick	M	100	86	71	80	100	70	100	100	83	87	89	A*	no	90	58	93	97
-5D1	Mohd Faisal, Harisah	F	62	100	71	100	78	80	100	100	92	93	88	A*	no	83	91	97	100
+5D1	MohdFaisal, Harisah	F	62	100	71	100	78	80	100	100	92	93	88	A*	no	83	91	97	100
 5D1	Murchie, Morgan	M	23	57	57	70	44	30	67	53	25	40	44	D	no	25	11	90	81
 5D1	Phelan, Rhys	M	54	57	86	70	89	70	83	71	92	53	71	B	no	70	53	70	92
 5D1	Riddell, Henry	M	38	71	86	80	67	20	83	71	50	87	64	C*	no	53	73	87	100
@@ -44,4 +44,4 @@ group	surname name	sex	motion	forces	Hooke's Law	moments	density	energy	heat T	n
 5D1	Stanley, Rory	M	31	14	71	40	78	20	17	18	8	33	31	D	no	47	47	0	89
 5D1	Thorogood, George	M	77	57	86	80	78	50	67	41	50	73	64	C*	no	53	55	80	81
 5D2	Yakovchuk, Anton	M	100	86	86	50	56	60	83	76	42	67	70	B	no	83	71	97	97
-5D1	Zhuo, Chao Yu	M	100	71	86	50	100	60	83	94	75	100	84	A	no	90	73	83	0
+5D1	Zhuo, ChaoYu	M	100	71	86	50	100	60	83	94	75	100	84	A	no	90	73	83	0
