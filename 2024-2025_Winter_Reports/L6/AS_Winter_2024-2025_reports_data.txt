@@ -1,0 +1,31 @@
+WINTER 2024-2025
+group	surname name	sex	PhysQuant	Vectors	Moments	LinMotion	Projectile	Practical	mark	grade	predicted	PQSCVEC	Moments	Projectile
+ASB	Anthony, Ashish	M	100	57	71	79	80	49	72	B	no	68	48	75
+ASB	Boakye, Frank	M	57	71	71	53	47	46	56	C	no	46	97	63
+ASB	Crozier, Daniel	M	57	100	88	59	67	62	69	B	no	75	66	83
+ASB	Hawthorne, Paige	F	93	79	76	85	73	68	80	A	no	60	86	68
+ASB	Hill, Rhys	M	79	57	94	71	53	54	68	B	no	56	79	78
+ASB	Irvine, Alexander	M	86	21	76	82	80	54	69	B	no	74	59	83
+ASB	Jeetun, Taariq	M	50	57	47	32	67	46	47	D	no	47	48	95
+ASB	Jefferson, Rebecca	F	93	93	88	68	100	76	82	A	no	74	90	93
+ASB	Lam, Marcus	M	100	100	100	97	100	62	92	A	no	88	100	93
+ASB	Magee, Oliver	M	86	79	47	50	93	51	63	C	no	53	62	73
+ASB	Manjoo, Zakhir	M	50	57	76	41	27	49	10	U	no	38	86	73
+ASB	Nmorsi, Caren	F	50	50	35	24	73	14	36	E	no	44	24	55
+ASB	Pandey, Aayush	M	64	93	94	50	100	46	69	B	no	44	69	68
+ASB	Ross, Ben	M	86	50	76	65	100	49	69	B	no	60	69	70
+ASB	Scullion, Aaron	M	93	79	88	68	93	59	76	B	no	56	83	68
+ASB	Starks, Ruan	M	64	79	71	41	67	68	61	C	no	56	83	88
+ASB	Syeda, Sarah	F	64	14	53	56	0	54	44	E	no	24	28	50
+ASB	Tilson, Luke	M	79	43	41	59	80	0	60	C	no	31	63	63
+ASB	Wilson, Luke	M	36	21	59	29	0	27	29	U	no	24	48	48
+
+
+A	79.5
+B	67.5
+C	54.5
+D	44.5
+E	34.5
+U	0
+
+
