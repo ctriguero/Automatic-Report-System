@@ -1,0 +1,23 @@
+group	surname name	sex	Spec. Heat	Gas Laws	Kinetic T	Deform	Circ	SHM	Damp reson	total %	Practical	overall %	grade	predicted	Deformation	Thermal	Circular SHM
+A2A	Adams, Jem	M	75	80	50	64	93	70	80	74	88	75	B	no	69	78	67
+A2A	Brooks, Christopher	M	100	95	17	77	71	90	80	81	43	74	B	no	67	72	0
+A2A	Chaudhari, Aditya	M	100	95	100	100	93	100	100	98	88	92	A*	no	67	94	88
+A2A	Chong, Phoebe	F	88	85	67	86	64	85	80	81	68	63	C	no	78	88	56
+A2A	Craig, Kiera	F	100	100	83	82	100	100	80	94	98	92	A*	no	86	94	92
+A2A	Edwards, Lauren	F	100	55	67	73	64	100	80	76	93	86	A	no	78	94	69
+A2A	Handley, Christopher	M	100	95	50	86	93	90	60	87	73	82	A	no	67	91	71
+A2A	Magorrian, Peter	M	100	75	83	73	100	95	60	84	80	85	A	no	72	88	81
+A2A	McCauley, Sarah-Jane	F	50	80	67	77	86	90	80	79	68	66	C	no	72	78	63
+A2A	Murton-Price, Johnathan	M	63	70	67	82	100	80	100	80	53	75	B	no	64	97	48
+A2A	Saeed, Muna	F	100	60	17	73	86	95	40	74	73	74	B	no	81	91	71
+A2A	Wright, Zach	M	100	80	33	91	79	90	80	83	85	72	B	no	81	88	54
+
+
+
+A*	89.5
+A	76.5
+B	67.5
+C	54.5
+D	38.5
+E	29.5
+U	0
