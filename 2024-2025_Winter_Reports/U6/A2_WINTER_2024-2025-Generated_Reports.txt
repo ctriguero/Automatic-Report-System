@@ -1,0 +1,131 @@
+
+[1m[33m    _________________________________________________
+[1m[33m            _=_                                      [0m
+[1m[33m          q(-_-)p                                    [0m
+[1m[33m          '_) (_`         REPORT GENERATOR        [0m
+[1m[33m          /__/  \         Carles Triguero 2023      [0m
+[1m[33m        _(<_   / )_                                  [0m
+[1m[33m       (__\_\_|_/__)                               [0m
+[1m[33m    _________________________________________________[0m
+
+[33m    -> File [1m[33mA2_Winter_2024-2025_reports_data.txt[0m[33m found[0m
+[33m    -> Processing file: [1m[33mA2_Winter_2024-2025_reports_data.txt[0m
+File headers
+[33mgroup surname name sex SpecHeat GasLaws KineticT Deform Circ SHM DampReson Practical   [0m
+
+
+
+
+
+
+
+Jem Adams, A2A
+(Mark= 75  Grade B  Markpaper 74 class min 67 class max 78 Class ave: 71 Class dis: 11 to revise: 2 topics)
+
+Jem attained an adequate result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 74% which shows an improvement/or not with respect his AS results.  Well done Jem!
+
+
+He has responded positively to the demands of the subject maintaining consistently a good standard throughout the term.  His practical work demonstrates exceptional skills in analysis and evaluation.  To do even better, He should revise the topics of KineticTDeform to consolidate his knowledge.  
+
+
+
+
+Christopher Brooks, A2A
+(Mark= 74  Grade B  Markpaper 81 class min 67 class max 72 Class ave: 69 Class dis: 5 to revise: 2 topics)
+
+Christopher reached a satisfactory result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 81% which shows an improvement/or not with respect his AS results.  Well done Christopher!
+
+
+He has maintained a consistent and pleasing standard throughout the term.  His steady progression has been reflected in his Winter examination.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of KineticTPractical to consolidate his knowledge.  
+
+
+
+
+Aditya Chaudhari, A2A
+(Mark= 92  Grade A*  Markpaper 98 class min 67 class max 94 Class ave: 83 Class dis: 27 to revise: 0 topics)
+
+Aditya reached impressive result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 98% which shows an improvement/or not with respect his AS results.  He maintained a superb and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations in different situations.  His practical work demonstrates exceptional skills in analysis and evaluation.  Well done Aditya!
+
+
+
+
+
+Phoebe Chong, A2A
+(Mark= 63  Grade C  Markpaper 81 class min 56 class max 88 Class ave: 74 Class dis: 32 to revise: 1 topics)
+
+Phoebe reached an acceptable result.  Her overall grade was obtained as a weighted average of her AS and the Winter examination results.  Her percentage mark in the Winter examination was 81% which shows an improvement/or not with respect her AS results.  She has maintained a high but slightly irregular standard throughout the year, unfortunately this was not fully reflected in her Winter examination.  She must improve her practical skills and data analysis.  To progress, She should revise the topic of Circ to consolidate her knowledge.  
+
+
+
+
+Kiera Craig, A2A
+(Mark= 92  Grade A*  Markpaper 94 class min 86 class max 94 Class ave: 90 Class dis: 8 to revise: 0 topics)
+
+Kiera achieved outstanding result.  Her overall grade was obtained as a weighted average of her AS and the Winter examination results.  Her percentage mark in the Winter examination was 94% which shows an improvement/or not with respect her AS results.  She maintained exceptional high standard throughout the term.  She is a highly capable pupil and grasps new physical concepts with ease.  She can select and apply equations to good effect.  Her practical work demonstrates exceptional skills in analysis and evaluation.  Well done Kiera!
+
+
+
+
+
+Lauren Edwards, A2A
+(Mark= 86  Grade A  Markpaper 76 class min 69 class max 94 Class ave: 80 Class dis: 25 to revise: 2 topics)
+
+Lauren attained a superb result.  Her overall grade was obtained as a weighted average of her AS and the Winter examination results.  Her percentage mark in the Winter examination was 76% which shows an improvement/or not with respect her AS results.  She maintained a superb and consistent standard throughout the term.  She is a highly capable pupil and grasps new physical concepts with ease.  She can select and apply equations appropriately.  Her practical work demonstrates exceptional skills in analysis and evaluation.  To secure her A level performance A revision of the topics of GasLawsCirc is suggested.  
+
+
+
+
+Christopher Handley, A2A
+(Mark= 82  Grade A  Markpaper 87 class min 67 class max 91 Class ave: 76 Class dis: 24 to revise: 2 topics)
+
+Christopher attained a superb result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 87% which shows an improvement/or not with respect his AS results.  He maintained a consistent good standard throughout the term.  However, to ensure his A level performance, he must raise the standard of his daily work.  To accomplish that he needs regular independent study.  A revision of the topics of KineticTCirc is suggested.  
+
+
+
+
+Peter Magorrian, A2A
+(Mark= 85  Grade A  Markpaper 84 class min 72 class max 88 Class ave: 80 Class dis: 16 to revise: 1 topics)
+
+Peter reached a fabulous result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 84% which shows an improvement/or not with respect his AS results.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations according to need.  To secure his A level performance A revision of the topic of Circ is suggested.  
+
+
+
+
+Sarah-Jane McCauley, A2A
+(Mark= 66  Grade C  Markpaper 79 class min 63 class max 78 Class ave: 71 Class dis: 15 to revise: 1 topics)
+
+Sarah-Jane reached an acceptable result.  Her overall grade was obtained as a weighted average of her AS and the Winter examination results.  Her percentage mark in the Winter examination was 79% which shows an improvement/or not with respect her AS results.  She has maintained a consistent high standard throughout the term, unfortunately this was not fully reflected in her Winter examination.  She must improve her practical skills and data analysis.  To progress, She should revise the topic of SpecHeat to consolidate her knowledge.  
+
+
+
+
+Johnathan Murton-Price, A2A
+(Mark= 75  Grade B  Markpaper 80 class min 48 class max 97 Class ave: 69 Class dis: 49 to revise: 2 topics)
+
+Johnathan achieved a good result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 80% which shows an improvement/or not with respect his AS results.  Well done Johnathan!
+
+
+He has continued to perform at an irregular but rising standard throughout the term.  His progression has been reflected in his Winter examination.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of SpecHeatPractical to consolidate his knowledge.  
+
+
+
+
+Muna Saeed, A2A
+(Mark= 74  Grade B  Markpaper 74 class min 71 class max 91 Class ave: 81 Class dis: 20 to revise: 3 topics)
+
+Muna attained an adequate result.  Her overall grade was obtained as a weighted average of her AS and the Winter examination results.  Her percentage mark in the Winter examination was 74% which shows an improvement/or not with respect her AS results.  Well done Muna!
+
+
+She has maintained a consistent very high standard throughout the term, unfortunately this was not fully reflected in her Winter examination.  To do even better, She should revise the topics of GasLawsKineticTCirc to consolidate her knowledge.  
+
+
+
+
+Zach Wright, A2A
+(Mark= 72  Grade B  Markpaper 83 class min 54 class max 88 Class ave: 74 Class dis: 34 to revise: 1 topics)
+
+Zach achieved a good result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 83% which shows an improvement/or not with respect his AS results.  Well done Zach!
+
+
+He has responded positively to the demands of the subject maintaining an irregular good standard throughout the term.  To do even better, He should revise the topic of KineticT to consolidate his knowledge.  
+
