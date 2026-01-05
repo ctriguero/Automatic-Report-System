@@ -58,7 +58,7 @@ int main( int argc, const char* argv[] )
     std::cout << BOLDYELLOW << "            _=_                                      " << RESET << std::endl ;
     std::cout << BOLDYELLOW << "          q(-_-)p                                    " << RESET << std::endl ;
     std::cout << BOLDYELLOW << "          '_) (_`         REPORT GENERATOR        " << RESET << std::endl ;
-    std::cout << BOLDYELLOW << "          /__/  \\         Carles Triguero 2023      " << RESET << std::endl ;
+    std::cout << BOLDYELLOW << "          /__/  \\         Carles Triguero 2026      " << RESET << std::endl ;
     std::cout << BOLDYELLOW << "        _(<_   / )_                                  " << RESET << std::endl ;
     std::cout << BOLDYELLOW << "       (__\\_\\_|_/__)                               " << RESET << std::endl ;
     std::cout << BOLDYELLOW << "    _________________________________________________" << RESET << std::endl ;
@@ -263,44 +263,25 @@ int main( int argc, const char* argv[] )
     
     
     // BOUNDARIES
-
-    // A*  85+
-    // A   70-84
-    // B   60-69
-    // C*  50-59
-    // C   35-49
-    // D   25-34
-    // E   <25
-    
-    // 2 A* Levels
-    // 1 A level
-    // 1 B level
-//     A	79.5
-// B	67.5
-// C	54.5
-// D	44.5
-// E	34.5
-// U	0
-    // 1 C* level
-    // 1 C level
-    // 1 D level
-    // 1 E level
+// A	69.5
+// B	59.5
+// C	51.5
+// D	40.5
+// E	0
 
     // 2024-2025 AS grade boundaries
-    int Acut = 80 ;
-    int Bcut = 68 ;
-    int Ccut = 55 ;
-    int Dcut = 45 ;
-    int Ecut = 35 ;
+    int Acut = 70 ;
+    int Bcut = 60 ;
+    int Ccut = 52 ;
+    int Dcut = 41 ;
+    int Ecut = 0 ;
 
     int Homeworkcut=70 ;
 
 
-
-
     //input variables to build report first line
-    std::string group,name,surename,sex,homework,attendance;
-    std::string T1,T2,T3,T4,T5,PRACTICAL,marks,grade,A,B,C,D,E,predicted,tes1,tes2,tes3,home1,home2;
+    std::string group,name,xurname,sex,homework,attendance;
+    std::string T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,PRACTICAL,marks,grade,A,B,C,D,E,predicted,tes1,tes2,tes3,home1,home2;
     
     unsigned int ClassMarkAve, ClassMarkDIS ;
     unsigned int ClassMarkMAX,ClassMarkMIN ;
@@ -308,22 +289,24 @@ int main( int argc, const char* argv[] )
     
     
     int sus;
-    int Q1,Q2,Q3,Q4,Q5,PRAC,mark;
+    int Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,PRAC,mark;
     int homework1,homework2,test1,test2,test3;
     
 
     // Skiping very first line
     getline(InputFile, line);
 
-    // reading first line to get the topics
+
+    // Reading second line to get the topics
     getline(InputFile, line);
     std::stringstream aa(line);
-    aa >> group >> surename >> name >> sex >> T1 >> T2 >> T3 >> T4 >> T5 >> PRACTICAL >> marks >> grade >> predicted >> tes1 >> tes2 >> tes3  ; 
+    aa >> group >> xurname >> name >> sex >> T1 >> T2 >> T3 >> T4 >> T5 >> T6 >> T7 >> T8 >> T9 >> T10 >> PRACTICAL >> marks >> grade >> predicted >> tes1 >> tes2 >> tes3  ; 
+
 
     cout << "File headers" << endl ;
 
-    // Reading the data for each pupil
-    cout << YELLOW << group << " " << surename << " " << name << " " << sex << " " << T1 << " " << T2 << " " << T3 << " " << T4 << " " << T5 << " " << PRACTICAL << " " << tes1 << " " << tes2 << " "  << tes3 << RESET << endl ;
+    
+    cout << YELLOW << group << " " << xurname << " " << name << " " << sex << " " << T1 << " " << T2 << " " << T3 << " " << T4 << " " << T5 << " " << T6 << " " << T7 << " " << T8 << " " << T9 << " " << T10 << " " << PRACTICAL << " " << tes1 << " " << tes2 << " " << tes3 << RESET << endl ;
     cout << endl ;
     cout << endl ;
     cout << endl ;
@@ -332,18 +315,18 @@ int main( int argc, const char* argv[] )
     
    
 
-    
+    // Reading the data for each pupil
     
     while (getline(InputFile, line))
     {
         std::stringstream aa(line) ;
-        aa >> group >> surename >> name >> sex >> Q1 >> Q2 >> Q3 >> Q4 >> Q5 >> PRAC >> mark >> grade >> predicted >> test1 >> test2  >> test3 ; //>> homework1 >> homework2
+        aa >> group >> xurname >> name >> sex >> Q1 >> Q2 >> Q3 >> Q4 >> Q5 >> Q6 >> Q7 >> Q8 >> Q9 >> Q10 >> PRAC >> mark >> grade >> predicted >> test1 >> test2  >> test3 ; 
 
 
  
 
     // Checks correct input
-    // cout << YELLOW << group << " " << surename << " " << name << " " << sex << " " << Q1 << " " << Q2 << " " << Q3 << " " << Q4 << " " << Q5 << " " << Q6 << " " << marks << " " << grade << " " << predicted << " " << test1 << " " << test2 " " << test3 <<  RESET << endl ;
+    // cout << YELLOW << group << " " << xurname << " " << name << " " << sex << " " << Q1 << " " << Q2 << " " << Q3 << " " << Q4 << " " << Q5 << " " << Q6 << " " << marks << " " << grade << " " << predicted << " " << test1 << " " << test2 " " << test3 <<  RESET << endl ;
     
            
         // Data analysis sex to number
@@ -389,10 +372,6 @@ int main( int argc, const char* argv[] )
         ClassTest.push_back (test1) ;
         ClassTest.push_back (test2) ;
         ClassTest.push_back (test3) ;
-        // ClassTest.push_back (test4) ;
-        // ClassTest.push_back (test5) ;
-        // ClassTest.push_back (test6) ;
-        
 
 
         int MissedTest=0;
@@ -452,9 +431,6 @@ int main( int argc, const char* argv[] )
         //     ClassMarkMIN = std::min({test1,test2,test3, test4,test5});
         // }
 
-
-
- 
         
         // std::cout << "max class test=" << ClassMarkMAX << "\n";
         // std::cout << "min clas test =" << ClassMarkMIN << "\n";
@@ -463,10 +439,6 @@ int main( int argc, const char* argv[] )
 
         // cout << YELLOW << group << "Class test dispersion (dis): " << ClassMarkDIS << RESET << endl ;
 
-
-            
-            
- 
             
             //-----------------
             // Topics to revise
@@ -506,10 +478,17 @@ int main( int argc, const char* argv[] )
                 tmp >> ToRevise ;
                CountTopics++ ;
             }
-            
-            if ( Q5 < 65 ){
+
+           if ( Q5 < 65 ){
                 std::stringstream tmp ;
                 tmp << ToRevise << T5 ;
+                tmp >> ToRevise ;
+               CountTopics++ ;
+            }
+            
+            if ( Q6 < 65 ){
+                std::stringstream tmp ;
+                tmp << ToRevise << T6 ;
                 tmp >> ToRevise ;
                CountTopics++ ;
             }
@@ -521,33 +500,33 @@ int main( int argc, const char* argv[] )
                 CountTopics++ ;
             }
             
-            // if ( Q7 < 65 ){
-            //     std::stringstream tmp ;
-            //     tmp << ToRevise << T7  ;
-            //     tmp >> ToRevise;
-            //    CountTopics++;
-            // }
+            if ( Q7 < 65 ){
+                std::stringstream tmp ;
+                tmp << ToRevise << T7  ;
+                tmp >> ToRevise;
+               CountTopics++;
+            }
 
-            // if ( Q8 < 65 ){
-            //     std::stringstream tmp ;
-            //     tmp << ToRevise << T8  ;
-            //     tmp >> ToRevise;
-            //    CountTopics++;
-            // }
+            if ( Q8 < 65 ){
+                std::stringstream tmp ;
+                tmp << ToRevise << T8  ;
+                tmp >> ToRevise;
+               CountTopics++;
+            }
 
-            // if ( Q9 < 65 ){
-            //     std::stringstream tmp ;
-            //     tmp << ToRevise << T9  ;
-            //     tmp >> ToRevise;
-            //    CountTopics++;
-            // }
+            if ( Q9 < 65 ){
+                std::stringstream tmp ;
+                tmp << ToRevise << T9  ;
+                tmp >> ToRevise;
+               CountTopics++;
+            }
 
-            // if ( Q10 < 65 ){
-            //     std::stringstream tmp ;
-            //     tmp << ToRevise << T10  ;
-            //     tmp >> ToRevise;
-            //    CountTopics++;
-            // }
+            if ( Q10 < 65 ){
+                std::stringstream tmp ;
+                tmp << ToRevise << T10  ;
+                tmp >> ToRevise;
+               CountTopics++;
+            }
 
             // if ( Q11 < 65 ){
             //     std::stringstream tmp ;
@@ -614,7 +593,7 @@ int main( int argc, const char* argv[] )
             cout << endl ;
             cout << endl ;
             cout << endl ;
-            cout << name << " " << surename << " " << group << endl ;
+            cout << name << " " << xurname << " " << group << endl ;
             cout << "(Mark= " << mark << "  Grade " << grade << " class min " << ClassMarkMIN << " class max " << ClassMarkMAX << " Class ave: " << ClassMarkAve << " Class dis: " << ClassMarkDIS << " to revise: " << CountTopics << " topics)" << endl ;
             cout << endl ;
             
@@ -904,14 +883,14 @@ int main( int argc, const char* argv[] )
                     cout << "A thorough review of all the topics covered so far is strongly recommended.  " ;
                     }   
                 cout << endl ; 
-                cout << endl ; 
+                cout << endl ;
         }
-        else
-        {
-                cout << "Well done " << name << "!" << endl ;
-                cout << endl ; 
-                cout << endl ; 
-        }
+        // else
+        // {
+        //         cout << "Well done " << name << "!" << endl ;
+        //         cout << endl ; 
+        //         cout << endl ; 
+        // }
 
             if ( 90 > ClassMarkAve && ClassMarkAve >= 80 )
             {
