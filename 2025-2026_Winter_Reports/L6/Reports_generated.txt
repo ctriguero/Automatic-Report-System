@@ -1,0 +1,275 @@
+
+[1m[33m    _________________________________________________
+[1m[33m            _=_                                      [0m
+[1m[33m          q(-_-)p                                    [0m
+[1m[33m          '_) (_`         REPORT GENERATOR        [0m
+[1m[33m          /__/  \         Carles Triguero 2026      [0m
+[1m[33m        _(<_   / )_                                  [0m
+[1m[33m       (__\_\_|_/__)                               [0m
+[1m[33m    _________________________________________________[0m
+
+[33m    -> File [1m[33mAS_Winter_2025-2026_reports_data.txt[0m[33m found[0m
+[33m    -> Processing file: [1m[33mAS_Winter_2025-2026_reports_data.txt[0m
+File headers
+[33mgroup surname name sex PhysQuant Vector Moment LinMotion Projectile Curvolt IVcurves resist intres potdiv Practical PQSCVEC Moments Projectile[0m
+
+
+
+
+
+
+
+Omkar Bhatta, ASB
+(Mark= 83  Grade A class min 84 class max 98 Class ave: 91 Class dis: 14 to revise: 1 topics)
+
+Omkar attained a superb result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained a superb high standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations appropriately.  He must improve his practical skills and data analysis.  To secure his A level performance A revision of the topic of Practical is suggested.  
+
+
+
+
+Sophie Cairns, ASB
+(Mark= 51  Grade D class min 48 class max 56 Class ave: 51 Class dis: 8 to revise: 8 topics)
+
+Sophie obtained an unsatisfactory result in her Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  She is struggling to adapt to the demands of A-level Physics.  Her performance was consistently poor throughout the term.  she is compromising her potential through lack of effort.  She must improve her practical skills and data analysis.  To progress, a much more committed approach is necessary.  She should revise the topics of MomentProjectileCurvoltPracticalIVcurvesresistintrespotdiv to consolidate her knowledge.  
+
+
+
+
+Ethan Dong, ASB
+(Mark= 83  Grade A class min 84 class max 100 Class ave: 92 Class dis: 16 to revise: 3 topics)
+
+Ethan achieved an excellent result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained a superb high standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations to good effect.  His practical work demonstrates exceptional skills in analysis and evaluation.  To secure his A level performance A revision of the topics of Projectileintrespotdiv is suggested.  
+
+
+
+
+Remi Elliott, ASB
+(Mark= 70  Grade A class min 79 class max 84 Class ave: 82 Class dis: 5 to revise: 5 topics)
+
+Remi achieved an excellent result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained a superb and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations appropriately.  To secure his A level performance A revision of the topics of PhysQuantIVcurvesresistintrespotdiv is suggested.  
+
+
+
+
+Davyd Gavrylov, ASB
+(Mark= 77  Grade A class min 73 class max 100 Class ave: 84 Class dis: 27 to revise: 5 topics)
+
+Davyd reached a fabulous result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations in different situations.  He must improve his practical skills and data analysis.  To secure his A level performance A revision of the topics of ProjectileCurvoltPracticalintrespotdiv is suggested.  
+
+
+
+
+Christopher Graham, ASB
+(Mark= 69  Grade B class min 62 class max 92 Class ave: 79 Class dis: 30 to revise: 6 topics)
+
+Christopher reached a satisfactory result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  He has responded positively to the demands of the subject maintaining an irregular good standard throughout the term.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of PhysQuantCurvoltIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Joshua Hanna, ASB
+(Mark= 59  Grade C class min 44 class max 80 Class ave: 57 Class dis: 36 to revise: 5 topics)
+
+Joshua reached a modest result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is progressively adapting to the demands of A-level studies but finds them challenging.   However, his class performance was irregular and poor.  To progress, He should revise the topics of CurvoltIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Martin Johnson, ASB
+(Mark= 85  Grade A class min 60 class max 98 Class ave: 82 Class dis: 38 to revise: 1 topics)
+
+Martin attained a superb result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations appropriately.  He must improve his practical skills and data analysis.  To secure his A level performance A revision of the topic of Practical is suggested.  
+
+
+
+
+Ethan Kelly, ASB
+(Mark= 73  Grade A class min 93 class max 100 Class ave: 97 Class dis: 7 to revise: 5 topics)
+
+Ethan achieved an excellent result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained a superb high standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations according to need.  To secure his A level performance A revision of the topics of ProjectileCurvoltresistintrespotdiv is suggested.  
+
+
+
+
+Jessica Lua, ASB
+(Mark= 93  Grade A class min 96 class max 98 Class ave: 97 Class dis: 2 to revise: 0 topics)
+
+Jessica attained a superb result in her Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  She adapted exceptionally well to the rigorous demands of A-level studies.  She maintained a superb high standard throughout the term.  She is a highly capable pupil and grasps new physical concepts with ease.  She can select and apply equations to good effect.  Well done Jessica!
+
+
+
+
+
+Shay McGaffin, ASB
+(Mark= 61  Grade B class min 52 class max 67 Class ave: 59 Class dis: 15 to revise: 6 topics)
+
+Shay attained an adequate result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  Although, his class marks were consistently low throughout the term, he improved his standard for the Winter examination.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of MomentCurvoltIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Michael Melo, ASB
+(Mark= 72  Grade A class min 63 class max 93 Class ave: 77 Class dis: 30 to revise: 2 topics)
+
+Michael achieved an excellent result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained a pleasing but irregular standard throughout the term.  To ensure his A level performance, he must raise the standard of his daily work.  He must improve his practical skills and data analysis.  To accomplish that he needs regular independent study.  A revision of the topics of Practicalresist is suggested.  
+
+
+
+
+Oleksandr Morhunov, ASB
+(Mark= 67  Grade B class min 55 class max 68 Class ave: 61 Class dis: 13 to revise: 5 topics)
+
+Oleksandr attained an adequate result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  He has maintained a consistent and pleasing standard throughout the term.  His steady progression has been reflected in his Winter examination.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of CurvoltPracticalresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Leon Ng, ASB
+(Mark= 57  Grade C class min 48 class max 61 Class ave: 56 Class dis: 13 to revise: 7 topics)
+
+Leon reached a fair result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is progressively adapting to the demands of A-level studies but finds them challenging.   However, his class performance was consistently poor.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of ProjectileCurvoltPracticalIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Michael Syrdal, ASB
+(Mark= 61  Grade B class min 51 class max 89 Class ave: 72 Class dis: 38 to revise: 5 topics)
+
+Michael reached a satisfactory result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  He has responded positively to the demands of the subject maintaining an irregular good standard throughout the term.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of PracticalIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Joshua Xu, ASB
+(Mark= 69  Grade B class min 29 class max 100 Class ave: 70 Class dis: 71 to revise: 4 topics)
+
+Joshua attained an adequate result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  He has responded positively to the demands of the subject maintaining an irregular good standard throughout the term.  To do even better, He should revise the topics of IVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Erick Acharya, ASC
+(Mark= 76  Grade A class min 78 class max 93 Class ave: 86 Class dis: 15 to revise: 4 topics)
+
+Erick achieved an excellent result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained a superb and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations appropriately.  He must improve his practical skills and data analysis.  To secure his A level performance A revision of the topics of Practicalresistintrespotdiv is suggested.  
+
+
+
+
+Riya Ajay, ASC
+(Mark= 77  Grade A class min 71 class max 98 Class ave: 83 Class dis: 27 to revise: 1 topics)
+
+Riya achieved an excellent result in her Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  She adapted exceptionally well to the rigorous demands of A-level studies.  She maintained an excellent and consistent standard throughout the term.  She is a highly capable pupil and grasps new physical concepts with ease.  She can select and apply equations as required.  To secure her A level performance A revision of the topic of PhysQuant is suggested.  
+
+
+
+
+Orla Andrews, ASC
+(Mark= 63  Grade B class min 66 class max 76 Class ave: 71 Class dis: 10 to revise: 6 topics)
+
+Orla achieved a good result in her Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  She is steadily adapting to the rigorous demands of A-level studies.  She has responded positively to the demands of the subject maintaining consistently a good standard throughout the term.  She must improve her practical skills and data analysis.  To do even better, She should revise the topics of PhysQuantProjectileCurvoltresistintrespotdiv to consolidate her knowledge.  
+
+
+
+
+Elijah Boyd, ASC
+(Mark= 78  Grade A class min 58 class max 100 Class ave: 83 Class dis: 42 to revise: 3 topics)
+
+Elijah achieved an excellent result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations to good effect.  He must improve his practical skills and data analysis.  To secure his A level performance A revision of the topics of Curvoltintrespotdiv is suggested.  
+
+
+
+
+Harry Cheung, ASC
+(Mark= 67  Grade B class min 51 class max 89 Class ave: 72 Class dis: 38 to revise: 3 topics)
+
+Harry reached a satisfactory result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is steadily adapting to the rigorous demands of A-level studies.  He has responded positively to the demands of the subject maintaining an irregular good standard throughout the term.  He must improve his practical skills and data analysis.  To do even better, He should revise the topics of Practicalintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Ellie Gray, ASC
+(Mark= 77  Grade A class min 66 class max 98 Class ave: 84 Class dis: 32 to revise: 5 topics)
+
+Ellie reached a fabulous result in her Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  She adapted exceptionally well to the rigorous demands of A-level studies.  She maintained a superb and consistent standard throughout the term.  She is a highly capable pupil and grasps new physical concepts with ease.  She can select and apply equations to good effect.  She must improve her practical skills and data analysis.  To secure her A level performance A revision of the topics of PracticalIVcurvesresistintrespotdiv is suggested.  
+
+
+
+
+Connor Houston, ASC
+(Mark= 39  Grade E class min 16 class max 76 Class ave: 45 Class dis: 60 to revise: 9 topics)
+
+Connor obtained an unsatisfactory result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is finding it particularly difficult to meet the demands of A-level Physics.  His performance was inconsistent and poor throughout the term.  He must improve his practical skills and data analysis.  A thorough review of his study methods is necessary.  He should create a structured routine, focus on key concepts, seek extra help, and practise past papers regularly to address weaknesses and improve.  In particular, he should revise the topics of MomentLinMotionProjectileCurvoltPracticalIVcurvesresistintrespotdiv.
+
+
+
+
+Nicko Ilagan, ASC
+(Mark= 76  Grade A class min 64 class max 100 Class ave: 85 Class dis: 36 to revise: 1 topics)
+
+Nicko achieved an excellent result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations appropriately.  He must improve his practical skills and data analysis.  To secure his A level performance A revision of the topic of Practical is suggested.  
+
+
+
+
+Noah Kearney, ASC
+(Mark= 78  Grade A class min 78 class max 96 Class ave: 87 Class dis: 18 to revise: 1 topics)
+
+Noah attained a superb result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained a superb and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations appropriately.  He must improve his practical skills and data analysis.  To secure his A level performance A revision of the topic of resist is suggested.  
+
+
+
+
+Daniel Monaghan, ASC
+(Mark= 59  Grade C class min 52 class max 96 Class ave: 79 Class dis: 44 to revise: 6 topics)
+
+Daniel attained an acceptable result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is progressively adapting to the demands of A-level studies but finds them challenging.  He has maintained a high but slightly irregular standard throughout the year, unfortunately this was not fully reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of PhysQuantCurvoltPracticalresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Jake Rossetto, ASC
+(Mark= 74  Grade A class min 73 class max 93 Class ave: 86 Class dis: 20 to revise: 4 topics)
+
+Jake achieved an excellent result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He adapted exceptionally well to the rigorous demands of A-level studies.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations appropriately.  To secure his A level performance A revision of the topics of Projectileresistintrespotdiv is suggested.  
+
+
+
+
+Steven Wu, ASC
+(Mark= 56  Grade C class min 28 class max 94 Class ave: 58 Class dis: 66 to revise: 7 topics)
+
+Steven attained a modest result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is progressively adapting to the demands of A-level studies but finds them challenging.   However, his class performance was irregular and poor.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of PhysQuantCurvoltPracticalIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Anton Yakovchuk, ASC
+(Mark= 45  Grade D class min 64 class max 81 Class ave: 74 Class dis: 17 to revise: 8 topics)
+
+Anton obtained a discouraging result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is struggling to adapt to the demands of A-level Physics.  He has maintained a consistent high standard throughout the term, surprisingly this was not fully reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, a much more committed approach is necessary.  He should revise the topics of MomentProjectileCurvoltPracticalIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Anton Yakovchuk, ASC
+(Mark= 45  Grade D class min 64 class max 81 Class ave: 74 Class dis: 17 to revise: 8 topics)
+
+Anton obtained a discouraging result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is struggling to adapt to the demands of A-level Physics.  He has maintained a consistent high standard throughout the term, surprisingly this was not fully reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, a much more committed approach is necessary.  He should revise the topics of MomentProjectileCurvoltPracticalIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Anton Yakovchuk, ASC
+(Mark= 45  Grade D class min 64 class max 81 Class ave: 74 Class dis: 17 to revise: 8 topics)
+
+Anton obtained a disappointing result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is struggling to adapt to the demands of A-level Physics.  He has maintained a consistent high standard throughout the term, surprisingly this was not fully reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, a much more committed approach is necessary.  He should revise the topics of MomentProjectileCurvoltPracticalIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
+
+
+
+Anton Yakovchuk, ASC
+(Mark= 45  Grade D class min 64 class max 81 Class ave: 74 Class dis: 17 to revise: 8 topics)
+
+Anton obtained a discouraging result in his Winter examination.  The grade was determined by a weighted average of the examination components, with 80% from the theory section and 20% from the practical section.  He is struggling to adapt to the demands of A-level Physics.  He has maintained a consistent high standard throughout the term, surprisingly this was not fully reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, a much more committed approach is necessary.  He should revise the topics of MomentProjectileCurvoltPracticalIVcurvesresistintrespotdiv to consolidate his knowledge.  
+
