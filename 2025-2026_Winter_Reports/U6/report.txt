@@ -1,0 +1,163 @@
+
+[1m[33m    _________________________________________________
+[1m[33m            _=_                                      [0m
+[1m[33m          q(-_-)p                                    [0m
+[1m[33m          '_) (_`         REPORT GENERATOR        [0m
+[1m[33m          /__/  \         Carles Triguero 2023      [0m
+[1m[33m        _(<_   / )_                                  [0m
+[1m[33m       (__\_\_|_/__)                               [0m
+[1m[33m    _________________________________________________[0m
+
+[33m    -> File [1m[33mA2_Winter_2025-2026_reports_data.txt[0m[33m found[0m
+[33m    -> Processing file: [1m[33mA2_Winter_2025-2026_reports_data.txt[0m
+File headers
+[33m               [0m
+
+
+
+
+
+
+
+name surname group
+(Mark= -196485361  Grade   Markpaper 32764 class min 0 class max 30970 Class ave: 30970 Class dis: 30970 to revise: 6 topics)
+
+name achieved a disappointing result.  Her overall grade was obtained as a weighted average of her AS and the Winter examination results.  Her percentage mark in the Winter examination was 32764% which shows an improvement/or not with respect her AS results.  She has maintained an exceptionally high standard throughout the term, surprisingly this was not reflected in her Winter examination.  Her practical work demonstrates exceptional skills in analysis and evaluation.  A thorough review of her study methods is necessary.  She should create a structured routine, focus on key concepts, seek extra help, and practise past papers regularly to address weaknesses and improve.  In particular, she should revise the topics of .
+
+
+
+
+Frank Boakye, U6B
+(Mark= 43  Grade D  Markpaper 40 class min 43 class max 76 Class ave: 55 Class dis: 33 to revise: 8 topics)
+
+Frank achieved a disappointing result.  The overall grade has been obtained as a weighted average of the AS result, and the Winter examination.  His percentage in the winter examination was 40% which shows an improvement/or not with respect AS.His performance was inconsistent and poor throughout the term.  He must improve his practical skills and data analysis.  To progress, a much more committed approach is necessary.  He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Daniel Crozier, U6B
+(Mark= 48  Grade D  Markpaper 48 class min 37 class max 92 Class ave: 64 Class dis: 55 to revise: 6 topics)
+
+Daniel attained a discouraging result.  The overall grade has been obtained as a weighted average of the AS result, and the Winter examination.  His percentage in the winter examination was 48% which shows an improvement/or not with respect AS.He has maintained an inconsistent standard throughout the term.  He must improve his practical skills and data analysis.  To progress, a much more committed approach is necessary.  He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Paige Hawthorne, U6B
+(Mark= 68  Grade B  Markpaper 69 class min 65 class max 69 Class ave: 67 Class dis: 4 to revise: 4 topics)
+
+Paige achieved a good result.  Her overall grade was obtained as a weighted average of her AS and the Winter examination results.  Her percentage mark in the Winter examination was 69% which shows an improvement/or not with respect her AS results.  Well done Paige!
+
+
+She has maintained a consistent and pleasing standard throughout the term.  Her steady progression has been reflected in her Winter examination.  To do even better, She should revise the topics of  to consolidate her knowledge.  
+
+
+
+
+Rhys Hill, U6B
+(Mark= 53  Grade D  Markpaper 45 class min 39 class max 82 Class ave: 57 Class dis: 43 to revise: 7 topics)
+
+Rhys attained a discouraging result.  The overall grade has been obtained as a weighted average of the AS result, and the Winter examination.  His percentage in the winter examination was 45% which shows an improvement/or not with respect AS.His performance was inconsistent and poor throughout the term.  To progress, a much more committed approach is necessary.  He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Alexander Irvine, U6B
+(Mark= 70  Grade B  Markpaper 68 class min 92 class max 100 Class ave: 96 Class dis: 8 to revise: 4 topics)
+
+Alexander reached a satisfactory result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 68% which shows an improvement/or not with respect his AS results.  He has maintained an extraordinarily high level of excellence throughout the term.  Despite this, his Winter examination results did not reflect his hard work and dedication.  A revision of the topics of  is suggested.  
+
+His practical work demonstrates exceptional skills in analysis and evaluation.  To do even better, He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Taariq Jeetun, U6B
+(Mark= 56  Grade C  Markpaper 58 class min 33 class max 75 Class ave: 55 Class dis: 42 to revise: 5 topics)
+
+Taariq reached an acceptable result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 58% which shows an improvement/or not with respect his AS results.   However, his class performance was irregular and poor.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Rebecca Jefferson, U6B
+(Mark= 86  Grade A*  Markpaper 81 class min 69 class max 96 Class ave: 82 Class dis: 27 to revise: 1 topics)
+
+Rebecca attained exceptional result.  Her overall grade was obtained as a weighted average of her AS and the Winter examination results.  Her percentage mark in the Winter examination was 81% which shows an improvement/or not with respect her AS results.  She maintained an excellent and consistent standard throughout the term.  She is a highly capable pupil and grasps new physical concepts with ease.  She can select and apply equations according to need.  To secure her A level performance A revision of the topic of  is suggested.  
+
+
+
+
+Marcus Lam, U6B
+(Mark= 93  Grade A*  Markpaper 89 class min 84 class max 92 Class ave: 87 Class dis: 8 to revise: 0 topics)
+
+Marcus attained exceptional result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 89% which shows an improvement/or not with respect his AS results.  He maintained a superb and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations according to need.  His practical work demonstrates exceptional skills in analysis and evaluation.  Well done Marcus!
+
+
+
+
+
+Oliver Magee, U6B
+(Mark= 54  Grade D  Markpaper 49 class min 35 class max 75 Class ave: 55 Class dis: 40 to revise: 5 topics)
+
+Oliver attained a discouraging result.  The overall grade has been obtained as a weighted average of the AS result, and the Winter examination.  His percentage in the winter examination was 49% which shows an improvement/or not with respect AS.His performance was inconsistent and poor throughout the term.  He must improve his practical skills and data analysis.  To progress, a much more committed approach is necessary.  He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Zakhir Manjoo, U6B
+(Mark= 47  Grade D  Markpaper 41 class min 43 class max 76 Class ave: 60 Class dis: 33 to revise: 7 topics)
+
+Zakhir attained a discouraging result.  The overall grade has been obtained as a weighted average of the AS result, and the Winter examination.  His percentage in the winter examination was 41% which shows an improvement/or not with respect AS.He has maintained an inconsistent standard throughout the term.  To progress, a much more committed approach is necessary.  He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Aayush Pandey, U6B
+(Mark= 62  Grade C  Markpaper 64 class min 84 class max 92 Class ave: 89 Class dis: 8 to revise: 4 topics)
+
+Aayush achieved a fair result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 64% which shows an improvement/or not with respect his AS results.  He has maintained a consistent very high standard throughout the term, surprisingly this was not fully reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Ben Ross, U6B
+(Mark= 62  Grade C  Markpaper 57 class min 70 class max 98 Class ave: 80 Class dis: 28 to revise: 4 topics)
+
+Ben achieved a fair result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 57% which shows an improvement/or not with respect his AS results.  He has maintained a consistent very high standard throughout the term, surprisingly this was not fully reflected in his Winter examination.  He must improve his practical skills and data analysis.  To progress, He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Aaron Scullion, U6B
+(Mark= 86  Grade A*  Markpaper 83 class min 80 class max 92 Class ave: 86 Class dis: 12 to revise: 2 topics)
+
+Aaron attained exceptional result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 83% which shows an improvement/or not with respect his AS results.  He maintained an excellent and consistent standard throughout the term.  He is a highly capable pupil and grasps new physical concepts with ease.  He can select and apply equations in different situations.  To secure his A level performance A revision of the topics of  is suggested.  
+
+
+
+
+Ruan Starks, U6B
+(Mark= 65  Grade B  Markpaper 59 class min 53 class max 86 Class ave: 65 Class dis: 33 to revise: 6 topics)
+
+Ruan reached a satisfactory result.  His overall grade was obtained as a weighted average of his AS and the Winter examination results.  His percentage mark in the Winter examination was 59% which shows an improvement/or not with respect his AS results.  Well done Ruan!
+
+
+He has continued to perform at an irregular but rising standard throughout the term.  His progression has been reflected in his Winter examination.  To do even better, He should revise the topics of  to consolidate his knowledge.  
+
+
+
+
+Sarah Syeda, U6B
+(Mark= 36  Grade D  Markpaper 35 class min 39 class max 82 Class ave: 60 Class dis: 43 to revise: 8 topics)
+
+Sarah attained a discouraging result.  The overall grade has been obtained as a weighted average of the AS result, and the Winter examination.  Her percentage in the winter examination was 35% which shows an improvement/or not with respect AS.She has maintained an inconsistent standard throughout the term.  She must improve her practical skills and data analysis.  To progress, a much more committed approach is necessary.  She should revise the topics of  to consolidate her knowledge.  
+
+
+
+
+Luke Tilson, U6B
+(Mark= 40  Grade D  Markpaper 31 class min 0 class max 35 Class ave: 35 Class dis: 35 to revise: 8 topics)
+
+Luke attained a discouraging result.  The overall grade has been obtained as a weighted average of the AS result, and the Winter examination.  His percentage in the winter examination was 31% which shows an improvement/or not with respect AS.His performance was inconsistent and poor throughout the term.  He must improve his practical skills and data analysis.  To progress, a much more committed approach is necessary.  He should revise the topics of  to consolidate his knowledge.  
+
