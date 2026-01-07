@@ -1,0 +1,18 @@
+A2 WINTER 2025-2026
+group	surname name	sex	Deformation	Thermal	Circular	SHM	Nuclearstruct	NDecay	NEnergy	3B 	total %	Practical	overall %	grade	predicted	Deformation	Thermal	Circular SHM
+U6B	Boakye, Frank	M	30	35	70	30	50	0	32	29	34	63	43	D	no	76	43	46
+U6B	Crozier, Daniel	M	90	76	70	50	13	22	0	64	46	58	48	D	no	92	37	0
+U6B	Hawthorne, Paige	F	60	94	100	90	50	44	68	29	68	73	68	B	no	67	69	65
+U6B	Hill, Rhys	M	60	12	100	60	13	11	41	21	38	73	53	D	no	82	39	51
+U6B	Irvine, Alexander	M	80	71	90	50	38	67	59	43	62	93	70	B	no	92	0	100
+U6B	Jeetun, Taariq	M	80	88	80	70	50	56	36	14	57	63	56	C	no	75	33	57
+U6B	Jefferson, Rebecca	F	70	94	100	90	88	67	82	57	81	80	86	A*	no	96	69	81
+U6B	Lam, Marcus	M	90	94	100	100	100	78	77	86	89	88	93	A*	no	92	86	84
+U6B	Magee, Oliver	M	90	29	80	80	25	78	27	43	51	40	54	D	no	75	35	57
+U6B	Manjoo, Zakhir	M	60	59	20	80	25	22	14	0	33	75	47	D	no	76	61	43
+U6B	Pandey, Aayush	M	90	82	80	90	25	100	59	36	69	43	62	C	no	92	84	92
+U6B	Ross, Ben	M	90	76	90	80	38	22	68	21	62	35	62	C	no	98	73	70
+U6B	Scullion, Aaron	M	90	94	90	100	38	89	95	57	84	80	86	A*	no	92	80	0
+U6B	Starks, Ruan	M	80	59	20	100	0	44	50	57	53	83	65	B	no	86	53	57
+U6B	Syeda, Sarah	F	50	53	70	40	38	22	32	14	39	20	36	D	no	82	39	0
+U6B	Tilson Gray, Luke	M	80	53	30	10	38	0	14	29	31	0	40	D	no	0	35	0
