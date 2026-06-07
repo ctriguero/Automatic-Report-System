@@ -263,18 +263,20 @@ int main( int argc, const char* argv[] )
     
     
     
-    // BOUNDARIES
+// BOUNDARIES 2026
+// A	71
+// B	60
+// C	48
+// D	40
+// E	0
 
-    //            A    73% or above
-    //            B    56-72%
-    //            C    35-55%
-    //            D    34% or less
     
+    int Acut=71;
+    int Bcut = 60;
+    int Ccut = 48 ;
+    int Dcut = 40 ;
 
-    //     A    73% or above
-    // 3 levels
-    int Acut=73;
-
+// 3 levels of A
     int AH,AM,AL;
     AH=100-(100-Acut)/3;
     AM=100-2*(100-Acut)/3;
@@ -283,54 +285,51 @@ int main( int argc, const char* argv[] )
     cout << "A grade subgrades" << endl ;
     cout << "AH=" << AH << "   AM=" << AM << "   AL=" << AL << endl ;
     
-    int Bcut = 56;
-    int Ccut = 35 ;
+    
 
 
-
-
- 
-
-
-    //input variables to build report first line
+    //Names of fields. Strings. input variables to build report first line
     std::string group,name,surename,sex,homework,attendance;
-    std::string T1,T2,T3,T4,T5,T6,T7,marks,grade,A,B,C,D,E,predicted,tes1,tes2,tes3,home1,home2,home3;
+    std::string T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,marks,grade,A,B,C,D,E,predicted,tes1,tes2,tes3,home1,home2,home3;
     
     unsigned int ClassMarkAve, ClassMarkDIS ;
     unsigned int ClassMarkMAX,ClassMarkMIN ;
     float ClassMarkSTD ;
     
     
+    // Numerical values of variables
     int sus;
-    int Q1,Q2,Q3,Q4,Q5,Q6,Q7,mark;
+    int Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,mark;
     int homework1,homework2,homework3,test1,test2,test3;
     
+
+
 
     // Skiping very first line
     getline(InputFile, line);
     // reading first line to get the topics
     getline(InputFile, line);
     std::stringstream aa(line);
-    aa >> group >> surename >> name >> sex >> T1 >> T2 >> T3 >> T4 >> T5 >> T6 >> T7 >> marks >> grade >> predicted >> tes1 >> tes2 >> tes3 >> home1 >> home2 >> home3 ;
+    aa >> group >> surename >> name >> sex >> T1 >> T2 >> T3 >> T4 >> T5 >> T6 >> T7 >> T8 >> T9 >> T10 >> marks >> grade >> predicted >> tes1 >> tes2 ;
     
 
 
-    cout << "File headers" << endl ;
-    cout << YELLOW << group << " " << surename << " " << name << " " << sex << " " << T1 << " " << T2 << " " << T3 << " " << T4 << " " << T5 << " " << T6 << " " << T7 << " " << marks << " " << grade << " " << predicted << " " << tes1 << " " << tes2 << " " << tes3 << " " << home1 << " " << home2 << " " << home3 << RESET << endl ;
-    cout << endl ;
-    cout << endl ;
-    cout << endl ;
-    cout << endl ;
+    // cout << "File headers" << endl ;
+    // cout << YELLOW << group << " " << surename << " " << name << " " << sex << " " << T1 << " " << T2 << " " << T3 << " " << T4 << " " << T5 << " " << T6 << " " << T7 << " " << marks << " " << grade << " " << predicted << " " << tes1 << " " << tes2 << " " << tes3 << " " << home1 << " " << home2 << " " << home3 << RESET << endl ;
+    // cout << endl ;
+    // cout << endl ;
+    // cout << endl ;
+    // cout << endl ;
     
     
     
 
-    
+// Reading numerical values line by line.
     
 while (getline(InputFile, line))
 {
     std::stringstream aa(line) ;
-    aa >> group >> surename >> name >> sex >> Q1 >> Q2 >> Q3 >> Q4 >> Q5 >> Q6 >> Q7 >> mark >> grade >> predicted >> test1 >> test2 >> test3 >> homework1 >> homework2 >> homework3 ;
+    aa >> group >> surename >> name >> sex >> Q1 >> Q2 >> Q3 >> Q4 >> Q5 >> Q6 >> Q7 >> Q8 >> Q9 >> Q10 >> mark >> grade >> predicted >> test1 >> test2 ;
 
             // Checks correct input
             // cout << YELLOW << group << " " << surename << " " << name << " " << sex << " " << Q1 << " " << Q2 << " " << Q3 << " " << Q4 << " " << Q5 << " " << Q6 << " " << Q7 << " " << marks << " " << grade << " " << predicted << " " << test1 << " " << test2 << " " << test3 << " " << homework1 << " " << homework2 << " " << homework3 << RESET << endl ;
@@ -372,11 +371,11 @@ while (getline(InputFile, line))
 
 
         // Class test average
-        ClassMarkAve= (test1 + test2 + test3)/3;
+        ClassMarkAve= (test1 + test2 )/2;
         // In case someone miss an exam...
-        if ( test1 == 0 ){ClassMarkAve= (test2 + test3)/2;}
-        if ( test2 == 0 ){ClassMarkAve= (test1 + test3)/2;}
-        if ( test3 == 0 ){ClassMarkAve= (test1 + test2)/2;}
+        if ( test1 == 0 ){ClassMarkAve= test2;}
+        if ( test2 == 0 ){ClassMarkAve= test1;}
+        // if ( test3 == 0 ){ClassMarkAve= (test1 + test2)/2;}
 
 
 
@@ -388,24 +387,24 @@ while (getline(InputFile, line))
         int ClassMarkMAX;
         int ClassMarkMIN;
 
-        ClassMarkMAX = std::max({test1, test2,test3});
-        ClassMarkMIN = std::min({test1, test2,test3});
+        ClassMarkMAX = std::max({test1, test2});
+        ClassMarkMIN = std::min({test1, test2});
         // In case someone miss an exam...
         if ( test1 == 0 )
         {
-            ClassMarkMAX = std::max({test2,test3});
-            ClassMarkMIN = std::min({test2,test3});
+            ClassMarkMAX = std::max({test2});
+            ClassMarkMIN = std::min({test2});
         }
         if ( test2 == 0 )
         {
-            ClassMarkMAX = std::max({test1,test3});
-            ClassMarkMIN = std::min({test1,test3});
+            ClassMarkMAX = std::max({test1});
+            ClassMarkMIN = std::min({test1});
         }
-        if ( test3 == 0 )
-        {
-            ClassMarkMAX = std::max({test1,test2});
-            ClassMarkMIN = std::min({test1,test2});
-        }
+        // if ( test3 == 0 )
+        // {
+        //     ClassMarkMAX = std::max({test1,test2});
+        //     ClassMarkMIN = std::min({test1,test2});
+        // }
 
 
 
@@ -481,12 +480,36 @@ while (getline(InputFile, line))
                 tmp >> ToRevise;
                CountTopics++;
             }
+
+            // Not ncluding equation definitions or hars thinking
+
+        //     if ( Q8 < 65 ){
+        //         std::stringstream tmp ;
+        //         tmp << ToRevise << T8  ;
+        //         tmp >> ToRevise;
+        //        CountTopics++;
+        //     }
+
+        //    if ( Q9 < 65 ){
+        //         std::stringstream tmp ;
+        //         tmp << ToRevise << T9  ;
+        //         tmp >> ToRevise;
+        //        CountTopics++;
+        //     }
+
+        //    if ( Q10 < 65 ){
+        //         std::stringstream tmp ;
+        //         tmp << ToRevise << T10  ;
+        //         tmp >> ToRevise;
+        //        CountTopics++;
+        //     }
+
+
             
            // cout << name <<" should revise " << CountTopics << " topics" <<endl;
 //            cout << name <<" should revise " << ToRevise << " length" << ToRevise.length()<< endl ;
             
-            
-            
+        
             
             // If CountTopics=1 topic singular
             // If CountTopics>1 topics plural
@@ -497,15 +520,19 @@ while (getline(InputFile, line))
             if ( CountTopics > 4 ){alltopics = 1; }
 
 
-            int HomeworkAve;
-            int HomeworkLack = 0; // needs initiallise
+
+            // NO HOMEWORK CONSIDERED IN THIS OCCASION
+
+            int HomeworkAve = 100 ;
+            int HomeworkLack = 0 ; // needs initiallise
+    
             // Homework checker
             // quality:
-            HomeworkAve = ( homework1 + homework2 + homework3 )/3;
-            // Missing
-            if ( homework1 == 0 ){HomeworkLack = 1;}
-            if ( homework2 == 0 ){HomeworkLack = 1;}
-            if ( homework3 == 0 ){HomeworkLack = 1;}
+            // HomeworkAve = ( homework1 + homework2 + homework3 )/3;
+            // // Missing
+            // if ( homework1 == 0 ){HomeworkLack = 1;}
+            // if ( homework2 == 0 ){HomeworkLack = 1;}
+            // if ( homework3 == 0 ){HomeworkLack = 1;}
 
             
 
@@ -518,6 +545,7 @@ while (getline(InputFile, line))
             cout << endl ;
             cout << name << " " << surename << " " << group << endl ;
             cout << "(Mark= " << mark << "  Grade " << grade << " class min " << ClassMarkMIN << " class max " << ClassMarkMAX << " Class ave: " << ClassMarkAve << " Class dis: " << ClassMarkDIS << " Homework ave: " << HomeworkAve  << " Homework lack: " << HomeworkLack << " to revise: " << CountTopics << " topics)" << endl ;
+            cout << "(Equations= " << Q8 << "  Definitions " << Q9 << " Hard think " << Q10 << " )" << endl ;
             cout << endl ;
             
 
@@ -543,17 +571,6 @@ while (getline(InputFile, line))
             
             // He should review all the topics studied in this course thoroughly to ensure he has retained what heshe has learned
             
-
-
-
-
-
-
-
-
-    // if ( predicted == "no")
-    // {
-
 
 
 
@@ -612,7 +629,7 @@ while (getline(InputFile, line))
             {
                 // cout << "There is still room for improvement.  ";
                 // cout << "There is potential for improvement.  ";
-                cout << "To do even better, ";
+                cout << "To progress, ";
                 // cout << "In order to improve, ";
                 // cout << "To further improve, ";
                 // cout << "To enhance learning, ";
@@ -718,7 +735,7 @@ while (getline(InputFile, line))
 
             if ( CountTopics != 0 || HomeworkLack == 1 || HomeworkAve < 70 )
             {
-                cout << "To do even better, ";
+                cout << "To progress, ";
 
                 if ( HomeworkAve < 70 && HomeworkLack == 0 )
                 {
@@ -818,7 +835,7 @@ while (getline(InputFile, line))
 
             if ( CountTopics != 0 || HomeworkLack == 1 || HomeworkAve < 70 )
             {
-                cout << "To do even better, ";
+                cout << "To progress, ";
 
                 if ( HomeworkAve < 70 && HomeworkLack == 0 )
                 {
@@ -953,7 +970,7 @@ while (getline(InputFile, line))
 
             if ( CountTopics != 0 || HomeworkLack == 1 || HomeworkAve < 70 )
             {
-                cout << "To do even better, ";
+                cout << "To progress, ";
 
                 if ( HomeworkAve < 70 && HomeworkLack == 0 )
                 {
