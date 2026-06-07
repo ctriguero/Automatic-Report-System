@@ -13,9 +13,9 @@ group	surname	sex	Forces	Electrostatics	Magnetism	Pressure	Moments	Motion	Light	
 3A2	Mackenzie, Jenna	F	38	80	43	56	57	75	63	100	56	74	69	B	no	59	97
 3A2	McCleary, Charlie	M	62	40	100	33	100	84	67	67	56	84	76	A	no	79	91
 3A2	Milligan, Harry	M	54	80	86	11	100	69	81	67	69	74	71	A	no	72	81
-3A2	Monahan Packham, Iona	F	54	60	71	22	71	66	81	100	88	74	70	B	no	90	88
+3A2	Monahan, Iona	F	54	60	71	22	71	66	81	100	88	74	70	B	no	90	88
 3A2	Moore, Zara	F	31	100	57	22	14	63	41	67	56	47	53	C	no	77	75
-3A2	O'Flaherty, Alexa	F	15	60	100	11	29	69	74	100	63	68	64	B	no	95	91
+3A2	Flaherty, Alexa	F	15	60	100	11	29	69	74	100	63	68	64	B	no	95	91
 3A2	Paulin, Amelia	F	46	20	14	100	29	91	52	100	25	79	68	B	no	69	94
 3A2	Pothini, Niteesh	M	77	80	57	78	0	75	67	33	75	68	70	B	no	64	81
 3A2	Reid, Poppy	F	38	80	29	33	14	66	44	67	31	47	56	C	no	82	88
@@ -24,7 +24,7 @@ group	surname	sex	Forces	Electrostatics	Magnetism	Pressure	Moments	Motion	Light	
 3B2	Astrom, Kevyn	M	92	100	86	33	43	56	70	100	75	74	70	B	no	77	88
 3B2	Day, Georgina	F	92	100	100	89	86	88	89	100	88	84	91	A	no	95	94
 3B2	Doherty, Anna	F	69	100	43	44	14	66	78	67	69	58	68	B	no	97	84
-3B2	Edgar-Wilson, Noah	M	46	20	86	89	71	84	56	100	50	89	74	A	no	87	100
+3B2	Edgar, Noah	M	46	20	86	89	71	84	56	100	50	89	74	A	no	87	100
 3B2	Egunjobi, Dara	M	31	80	57	22	43	53	74	0	63	58	56	C	no	77	66
 3B2	Esfandiary, Paryas	F	46	100	100	33	71	88	85	100	81	74	78	A	no	92	81
 3B2	Fong, Bella	F	38	100	43	22	86	78	89	100	69	79	75	A	no	77	94
@@ -45,7 +45,7 @@ group	surname	sex	Forces	Electrostatics	Magnetism	Pressure	Moments	Motion	Light	
 3C3	Beattie, Reuben	M	85	20	57	78	86	91	74	100	38	84	77	A	no	0	72
 3C3	Chen, Daniel	M	38	100	86	67	43	56	70	67	75	58	68	B	no	85	94
 3C3	Galdo, Von	M	62	20	43	44	86	72	48	67	44	79	65	B	no	85	94
-3C3	Ghosh Ray, Riddhayan	M	77	100	100	44	57	66	70	100	75	63	74	A	no	87	88
+3C3	Ghosh, Riddhayan	M	77	100	100	44	57	66	70	100	75	63	74	A	no	87	88
 3C3	Hagan, Charlie	M	92	60	100	22	29	69	67	67	63	63	69	B	no	46	81
 3C3	Hood, Samuel	M	77	100	71	100	43	81	81	100	81	74	81	A	no	82	84
 3C3	Jackson, Lucy	F	77	100	86	33	43	81	89	67	81	68	80	A	no	92	94
@@ -66,7 +66,7 @@ group	surname	sex	Forces	Electrostatics	Magnetism	Pressure	Moments	Motion	Light	
 3D2	Calo, Madeleine	F	38	60	86	89	14	69	30	67	44	63	57	C	no	64	75
 3D2	Douglas, Harry	M	31	60	43	22	29	63	56	67	38	37	57	C	no	64	91
 3D2	Egan, Sam	M	62	60	14	56	43	91	78	33	56	84	75	A	no	74	94
-3D2	Hickey-O'Rawe, Etain	F	62	80	57	22	43	69	93	100	75	68	71	A	no	87	84
+3D2	Hickey, Etain	F	62	80	57	22	43	69	93	100	75	68	71	A	no	87	84
 3D2	Johnston, Bella-Rose	F	15	100	71	44	43	69	59	67	69	63	61	B	no	90	78
 3D2	Jordan, Valentina	F	38	100	86	11	29	63	67	100	63	68	63	B	no	87	88
 3D2	Juma, Nadyah	F	38	40	57	33	43	59	37	67	19	53	56	C	no	67	94
@@ -82,4 +82,4 @@ group	surname	sex	Forces	Electrostatics	Magnetism	Pressure	Moments	Motion	Light	
 3D2	Salazar, Rhylee	M	100	60	86	33	86	75	81	100	75	63	80	A	no	92	94
 3D2	Tahiri, Sara	F	85	100	86	100	86	63	93	100	81	53	85	A	no	92	97
 3D2	Wylie, Sophie	F	69	100	29	67	71	84	89	100	63	74	81	A	no	100	94
-3D2	Yang, Qing Yuan	M	46	80	100	67	57	81	78	100	69	68	77	A	no	74	91
+3D2	Yang, Qing	M	46	80	100	67	57	81	78	100	69	68	77	A	no	74	91
